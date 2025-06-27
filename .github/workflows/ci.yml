@@ -1,0 +1,36 @@
+name: Update Trending Bioinformatics Repos
+on:
+  schedule:
+    - cron: '0 */2 * * *'   # runs every 2 hours (UTC)
+  workflow_dispatch:        # allow manual trigger if needed
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write       # allow pushing changes to repo
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'   # Ensures a recent Python is available
+
+      - name: Install requirements
+        run: pip install requests
+
+      - name: Run script to update README
+        run: python update_readme.py
+
+      - name: Commit changes
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update trending bioinformatics repos [skip ci]"
+            git push
+          fi
