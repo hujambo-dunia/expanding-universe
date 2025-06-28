@@ -1,4 +1,4 @@
-## Trending Bioinformatics Repositories (Updated: 2025-06-27)
+## Trending Bioinformatics Repositories (Updated: 2025-06-28)
 
 **Showing 15 projects matching the criteria (250+ stars, recent updates)**
 
