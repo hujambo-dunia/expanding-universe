@@ -1,8 +1,8 @@
-## Trending Bioinformatics Repositories (Updated: 2025-06-28)
+## Trending Bioinformatics Repositories (Updated: 2025-06-29)
 
 **Showing 15 projects matching the criteria (250+ stars, recent updates)**
 
-- **[deepchem/deepchem](https://github.com/deepchem/deepchem)** – ⭐ 6070 – Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology
+- **[deepchem/deepchem](https://github.com/deepchem/deepchem)** – ⭐ 6071 – Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology
 - **[duerrsimon/bioicons](https://github.com/duerrsimon/bioicons)** – ⭐ 1489 – A library of free open source icons for science illustrations in biology and chemistry
 - **[MultiQC/MultiQC](https://github.com/MultiQC/MultiQC)** – ⭐ 1326 – Aggregate results from bioinformatics analyses across many samples into a single report.
 - **[thieu1995/mealpy](https://github.com/thieu1995/mealpy)** – ⭐ 1038 – A Collection Of The State-of-the-art Metaheuristic Algorithms In Python (Metaheuristic/Optimizer/Nature-inspired/Biology)
