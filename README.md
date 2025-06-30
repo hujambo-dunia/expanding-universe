@@ -10,7 +10,7 @@
 - **[scikit-bio/scikit-bio](https://github.com/scikit-bio/scikit-bio)** – ⭐ 948 – scikit-bio: a community-driven Python library for bioinformatics, providing versatile data structures, algorithms and educational resources.
 - **[biotite-dev/biotite](https://github.com/biotite-dev/biotite)** – ⭐ 822 – A comprehensive library for computational molecular biology
 - **[zaeleus/noodles](https://github.com/zaeleus/noodles)** – ⭐ 593 – Bioinformatics I/O libraries in Rust
-- **[OpenChemistry/avogadrolibs](https://github.com/OpenChemistry/avogadrolibs)** – ⭐ 537 – Avogadro libraries provide 3D rendering, visualization, analysis and data processing useful in computational chemistry, molecular modeling, bioinformatics, materials science, and related areas.
+- **[OpenChemistry/avogadrolibs](https://github.com/OpenChemistry/avogadrolibs)** – ⭐ 538 – Avogadro libraries provide 3D rendering, visualization, analysis and data processing useful in computational chemistry, molecular modeling, bioinformatics, materials science, and related areas.
 - **[lindenb/jvarkit](https://github.com/lindenb/jvarkit)** – ⭐ 503 – Java utilities for Bioinformatics
 - **[SciML/Catalyst.jl](https://github.com/SciML/Catalyst.jl)** – ⭐ 488 – Chemical reaction network and systems biology interface for scientific machine learning (SciML). High performance, GPU-parallelized, and O(1) solvers in open source software.
 - **[brewsci/homebrew-bio](https://github.com/brewsci/homebrew-bio)** – ⭐ 315 – :beer::microscope: Bioinformatics formulae for the Homebrew package manager (macOS and Linux)
