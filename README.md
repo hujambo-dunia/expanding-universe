@@ -3,12 +3,12 @@
 **Showing 15 projects matching the criteria (250+ stars, recent updates)**
 
 - **[deepchem/deepchem](https://github.com/deepchem/deepchem)** – ⭐ 6072 – Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology
-- **[duerrsimon/bioicons](https://github.com/duerrsimon/bioicons)** – ⭐ 1492 – A library of free open source icons for science illustrations in biology and chemistry
+- **[duerrsimon/bioicons](https://github.com/duerrsimon/bioicons)** – ⭐ 1491 – A library of free open source icons for science illustrations in biology and chemistry
 - **[MultiQC/MultiQC](https://github.com/MultiQC/MultiQC)** – ⭐ 1326 – Aggregate results from bioinformatics analyses across many samples into a single report.
 - **[thieu1995/mealpy](https://github.com/thieu1995/mealpy)** – ⭐ 1039 – A Collection Of The State-of-the-art Metaheuristic Algorithms In Python (Metaheuristic/Optimizer/Nature-inspired/Biology)
 - **[sib-swiss/training-collection](https://github.com/sib-swiss/training-collection)** – ⭐ 1030 – Collection of bioinformatics training materials
 - **[scikit-bio/scikit-bio](https://github.com/scikit-bio/scikit-bio)** – ⭐ 948 – scikit-bio: a community-driven Python library for bioinformatics, providing versatile data structures, algorithms and educational resources.
-- **[biotite-dev/biotite](https://github.com/biotite-dev/biotite)** – ⭐ 822 – A comprehensive library for computational molecular biology
+- **[biotite-dev/biotite](https://github.com/biotite-dev/biotite)** – ⭐ 823 – A comprehensive library for computational molecular biology
 - **[zaeleus/noodles](https://github.com/zaeleus/noodles)** – ⭐ 593 – Bioinformatics I/O libraries in Rust
 - **[OpenChemistry/avogadrolibs](https://github.com/OpenChemistry/avogadrolibs)** – ⭐ 538 – Avogadro libraries provide 3D rendering, visualization, analysis and data processing useful in computational chemistry, molecular modeling, bioinformatics, materials science, and related areas.
 - **[lindenb/jvarkit](https://github.com/lindenb/jvarkit)** – ⭐ 503 – Java utilities for Bioinformatics
