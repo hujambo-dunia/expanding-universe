@@ -9,7 +9,7 @@
 - **[sib-swiss/training-collection](https://github.com/sib-swiss/training-collection)** – ⭐ 1031 – Collection of bioinformatics training materials
 - **[scikit-bio/scikit-bio](https://github.com/scikit-bio/scikit-bio)** – ⭐ 949 – scikit-bio: a community-driven Python library for bioinformatics, providing versatile data structures, algorithms and educational resources.
 - **[biotite-dev/biotite](https://github.com/biotite-dev/biotite)** – ⭐ 823 – A comprehensive library for computational molecular biology
-- **[zaeleus/noodles](https://github.com/zaeleus/noodles)** – ⭐ 593 – Bioinformatics I/O libraries in Rust
+- **[zaeleus/noodles](https://github.com/zaeleus/noodles)** – ⭐ 594 – Bioinformatics I/O libraries in Rust
 - **[OpenChemistry/avogadrolibs](https://github.com/OpenChemistry/avogadrolibs)** – ⭐ 538 – Avogadro libraries provide 3D rendering, visualization, analysis and data processing useful in computational chemistry, molecular modeling, bioinformatics, materials science, and related areas.
 - **[lindenb/jvarkit](https://github.com/lindenb/jvarkit)** – ⭐ 503 – Java utilities for Bioinformatics
 - **[SciML/Catalyst.jl](https://github.com/SciML/Catalyst.jl)** – ⭐ 489 – Chemical reaction network and systems biology interface for scientific machine learning (SciML). High performance, GPU-parallelized, and O(1) solvers in open source software.
