@@ -3,7 +3,7 @@ import os, requests, datetime, json
 
 # GitHub search API URL with query
 api_url = "https://api.github.com/search/repositories"
-query = "(biology OR bioinformatics) in:description stars:>250 pushed:>=2025-05-26"
+query = "(biology OR bioinformatics OR genome OR genomic) in:description stars:>250 pushed:>=2025-05-26"
 params = {
     "q": query,
     "sort": "stars",
