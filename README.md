@@ -49,9 +49,9 @@
 - **[whatshap/whatshap](https://github.com/whatshap/whatshap)** – ⭐ 375 – Read-based phasing of genomic variants, also called haplotype assembly
 - **[lh3/miniprot](https://github.com/lh3/miniprot)** – ⭐ 375 – Align proteins to genomes with splicing and frameshift
 - **[zeqianli/tgv](https://github.com/zeqianli/tgv)** – ⭐ 371 – Explore 5,000+ genomes in the terminal. Light, blazing fast 🚀, vim-motion.
-- **[openproblems-bio/openproblems](https://github.com/openproblems-bio/openproblems)** – ⭐ 368 – Formalizing and benchmarking open problems in single-cell genomics
+- **[openproblems-bio/openproblems](https://github.com/openproblems-bio/openproblems)** – ⭐ 369 – Formalizing and benchmarking open problems in single-cell genomics
 - **[genetics-statistics/GEMMA](https://github.com/genetics-statistics/GEMMA)** – ⭐ 366 – Genome-wide Efficient Mixed Model Association
-- **[kcleal/gw](https://github.com/kcleal/gw)** – ⭐ 364 – Genome browser and variant annotation
+- **[kcleal/gw](https://github.com/kcleal/gw)** – ⭐ 365 – Genome browser and variant annotation
 - **[nextgenusfs/funannotate](https://github.com/nextgenusfs/funannotate)** – ⭐ 356 – Eukaryotic Genome Annotation Pipeline
 - **[ncbi/pgap](https://github.com/ncbi/pgap)** – ⭐ 342 – NCBI Prokaryotic Genome Annotation Pipeline
 - **[ebi-pf-team/interproscan](https://github.com/ebi-pf-team/interproscan)** – ⭐ 337 – Genome-scale protein function classification
