@@ -22,8 +22,8 @@
 - **[ablab/spades](https://github.com/ablab/spades)** – ⭐ 852 – SPAdes Genome Assembler
 - **[pysam-developers/pysam](https://github.com/pysam-developers/pysam)** – ⭐ 838 – Pysam is a Python package for reading, manipulating, and writing genomics data such as SAM/BAM/CRAM and VCF/BCF files. It's a lightweight wrapper of the HTSlib API, the same one that powers samtools, bcftools, and tabix.
 - **[tanghaibao/jcvi](https://github.com/tanghaibao/jcvi)** – ⭐ 835 – Python library to facilitate genome assembly, annotation, and comparative genomics
+- **[cBioPortal/cbioportal](https://github.com/cBioPortal/cbioportal)** – ⭐ 826 – cBioPortal for Cancer Genomics
 - **[biotite-dev/biotite](https://github.com/biotite-dev/biotite)** – ⭐ 826 – A comprehensive library for computational molecular biology
-- **[cBioPortal/cbioportal](https://github.com/cBioPortal/cbioportal)** – ⭐ 825 – cBioPortal for Cancer Genomics
 - **[davidemms/OrthoFinder](https://github.com/davidemms/OrthoFinder)** – ⭐ 787 – Phylogenetic orthology inference for comparative genomics
 - **[thackl/gggenomes](https://github.com/thackl/gggenomes)** – ⭐ 688 – A grammar of graphics for comparative genomics
 - **[igvteam/igv](https://github.com/igvteam/igv)** – ⭐ 686 – Integrative Genomics Viewer. Fast, efficient, scalable visualization tool for genomics data and annotations
