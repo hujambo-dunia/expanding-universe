@@ -2,7 +2,7 @@
 
 **Showing 74 projects matching the criteria (250+ stars, recent updates)**
 
-- **[deepchem/deepchem](https://github.com/deepchem/deepchem)** – ⭐ 6103 – Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology
+- **[deepchem/deepchem](https://github.com/deepchem/deepchem)** – ⭐ 6104 – Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology
 - **[ArcInstitute/evo2](https://github.com/ArcInstitute/evo2)** – ⭐ 2971 – Genome modeling and design across all domains of life
 - **[satijalab/seurat](https://github.com/satijalab/seurat)** – ⭐ 2471 – R toolkit for single cell genomics
 - **[lh3/minimap2](https://github.com/lh3/minimap2)** – ⭐ 1998 – A versatile pairwise aligner for genomic and spliced nucleotide sequences
@@ -30,7 +30,7 @@
 - **[marbl/canu](https://github.com/marbl/canu)** – ⭐ 684 – A single molecule sequence assembler for genomes large and small.
 - **[igvteam/igv.js](https://github.com/igvteam/igv.js)** – ⭐ 680 – Embeddable genomic visualization component based on the Integrative Genomics Viewer
 - **[jerryji1993/DNABERT](https://github.com/jerryji1993/DNABERT)** – ⭐ 679 – DNABERT: pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome
-- **[instadeepai/nucleotide-transformer](https://github.com/instadeepai/nucleotide-transformer)** – ⭐ 656 – Foundation Models for Genomics & Transcriptomics
+- **[instadeepai/nucleotide-transformer](https://github.com/instadeepai/nucleotide-transformer)** – ⭐ 657 – Foundation Models for Genomics & Transcriptomics
 - **[eggnogdb/eggnog-mapper](https://github.com/eggnogdb/eggnog-mapper)** – ⭐ 632 – Fast genome-wide functional annotation through orthology assignment
 - **[zaeleus/noodles](https://github.com/zaeleus/noodles)** – ⭐ 599 – Bioinformatics I/O libraries in Rust
 - **[ComparativeGenomicsToolkit/cactus](https://github.com/ComparativeGenomicsToolkit/cactus)** – ⭐ 590 – Official home of genome aligner based upon notion of Cactus graphs
@@ -74,5 +74,5 @@
 - **[labgem/PPanGGOLiN](https://github.com/labgem/PPanGGOLiN)** – ⭐ 272 – Build a partitioned pangenome graph from microbial genomes
 - **[sigven/pcgr](https://github.com/sigven/pcgr)** – ⭐ 268 – Personal Cancer Genome Reporter (PCGR)
 - **[lynnlangit/gcp-for-bioinformatics](https://github.com/lynnlangit/gcp-for-bioinformatics)** – ⭐ 267 – GCP for Bioinformatics Researchers
-- **[GenerTeam/GENERanno](https://github.com/GenerTeam/GENERanno)** – ⭐ 253 – GENERanno: A Genomic Foundation Model for Metagenomic Annotation
+- **[GenerTeam/GENERanno](https://github.com/GenerTeam/GENERanno)** – ⭐ 254 – GENERanno: A Genomic Foundation Model for Metagenomic Annotation
 - **[biowasm/biowasm](https://github.com/biowasm/biowasm)** – ⭐ 252 – WebAssembly modules for genomics
