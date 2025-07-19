@@ -1,9 +1,9 @@
 ## Trending Bioinformatics Repositories (Updated: 2025-07-19)
 
-**Showing 73 projects matching the criteria (250+ stars, recent updates)**
+**Showing 74 projects matching the criteria (250+ stars, recent updates)**
 
 - **[deepchem/deepchem](https://github.com/deepchem/deepchem)** – ⭐ 6103 – Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology
-- **[ArcInstitute/evo2](https://github.com/ArcInstitute/evo2)** – ⭐ 2970 – Genome modeling and design across all domains of life
+- **[ArcInstitute/evo2](https://github.com/ArcInstitute/evo2)** – ⭐ 2971 – Genome modeling and design across all domains of life
 - **[satijalab/seurat](https://github.com/satijalab/seurat)** – ⭐ 2471 – R toolkit for single cell genomics
 - **[lh3/minimap2](https://github.com/lh3/minimap2)** – ⭐ 1998 – A versatile pairwise aligner for genomic and spliced nucleotide sequences
 - **[rust-bio/rust-bio](https://github.com/rust-bio/rust-bio)** – ⭐ 1717 – This library provides implementations of many algorithms and data structures that are useful for bioinformatics. All provided implementations are rigorously tested via continuous integration.
@@ -48,7 +48,7 @@
 - **[Ecogenomics/CheckM](https://github.com/Ecogenomics/CheckM)** – ⭐ 376 – Assess the quality of microbial genomes recovered from isolates, single cells, and metagenomes
 - **[whatshap/whatshap](https://github.com/whatshap/whatshap)** – ⭐ 375 – Read-based phasing of genomic variants, also called haplotype assembly
 - **[lh3/miniprot](https://github.com/lh3/miniprot)** – ⭐ 375 – Align proteins to genomes with splicing and frameshift
-- **[zeqianli/tgv](https://github.com/zeqianli/tgv)** – ⭐ 370 – Explore 5,000+ genomes in the terminal. Light, blazing fast 🚀, vim-motion.
+- **[zeqianli/tgv](https://github.com/zeqianli/tgv)** – ⭐ 371 – Explore 5,000+ genomes in the terminal. Light, blazing fast 🚀, vim-motion.
 - **[openproblems-bio/openproblems](https://github.com/openproblems-bio/openproblems)** – ⭐ 368 – Formalizing and benchmarking open problems in single-cell genomics
 - **[genetics-statistics/GEMMA](https://github.com/genetics-statistics/GEMMA)** – ⭐ 366 – Genome-wide Efficient Mixed Model Association
 - **[kcleal/gw](https://github.com/kcleal/gw)** – ⭐ 363 – Genome browser and variant annotation
@@ -75,3 +75,4 @@
 - **[sigven/pcgr](https://github.com/sigven/pcgr)** – ⭐ 268 – Personal Cancer Genome Reporter (PCGR)
 - **[lynnlangit/gcp-for-bioinformatics](https://github.com/lynnlangit/gcp-for-bioinformatics)** – ⭐ 267 – GCP for Bioinformatics Researchers
 - **[biowasm/biowasm](https://github.com/biowasm/biowasm)** – ⭐ 252 – WebAssembly modules for genomics
+- **[GenerTeam/GENERanno](https://github.com/GenerTeam/GENERanno)** – ⭐ 251 – GENERanno: A Genomic Foundation Model for Metagenomic Annotation
