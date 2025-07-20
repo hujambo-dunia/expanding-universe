@@ -74,5 +74,5 @@
 - **[labgem/PPanGGOLiN](https://github.com/labgem/PPanGGOLiN)** – ⭐ 272 – Build a partitioned pangenome graph from microbial genomes
 - **[sigven/pcgr](https://github.com/sigven/pcgr)** – ⭐ 268 – Personal Cancer Genome Reporter (PCGR)
 - **[lynnlangit/gcp-for-bioinformatics](https://github.com/lynnlangit/gcp-for-bioinformatics)** – ⭐ 267 – GCP for Bioinformatics Researchers
-- **[GenerTeam/GENERanno](https://github.com/GenerTeam/GENERanno)** – ⭐ 261 – GENERanno: A Genomic Foundation Model for Metagenomic Annotation
+- **[GenerTeam/GENERanno](https://github.com/GenerTeam/GENERanno)** – ⭐ 263 – GENERanno: A Genomic Foundation Model for Metagenomic Annotation
 - **[biowasm/biowasm](https://github.com/biowasm/biowasm)** – ⭐ 252 – WebAssembly modules for genomics
