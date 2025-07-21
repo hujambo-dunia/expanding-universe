@@ -1,4 +1,4 @@
-## Trending Bioinformatics Repositories (Updated: 2025-07-20)
+## Trending Bioinformatics Repositories (Updated: 2025-07-21)
 
 **Showing 74 projects matching the criteria (250+ stars, recent updates)**
 
@@ -6,7 +6,7 @@
 - **[ArcInstitute/evo2](https://github.com/ArcInstitute/evo2)** – ⭐ 2972 – Genome modeling and design across all domains of life
 - **[satijalab/seurat](https://github.com/satijalab/seurat)** – ⭐ 2473 – R toolkit for single cell genomics
 - **[lh3/minimap2](https://github.com/lh3/minimap2)** – ⭐ 1998 – A versatile pairwise aligner for genomic and spliced nucleotide sequences
-- **[rust-bio/rust-bio](https://github.com/rust-bio/rust-bio)** – ⭐ 1717 – This library provides implementations of many algorithms and data structures that are useful for bioinformatics. All provided implementations are rigorously tested via continuous integration.
+- **[rust-bio/rust-bio](https://github.com/rust-bio/rust-bio)** – ⭐ 1718 – This library provides implementations of many algorithms and data structures that are useful for bioinformatics. All provided implementations are rigorously tested via continuous integration.
 - **[materialsproject/pymatgen](https://github.com/materialsproject/pymatgen)** – ⭐ 1685 – Python Materials Genomics (pymatgen) is a robust materials analysis code that defines classes for structures and molecules with support for many electronic structure codes. It powers the Materials Project.
 - **[duerrsimon/bioicons](https://github.com/duerrsimon/bioicons)** – ⭐ 1497 – A library of free open source icons for science illustrations in biology and chemistry
 - **[MultiQC/MultiQC](https://github.com/MultiQC/MultiQC)** – ⭐ 1328 – Aggregate results from bioinformatics analyses across many samples into a single report.
@@ -72,7 +72,7 @@
 - **[KamilSJaron/smudgeplot](https://github.com/KamilSJaron/smudgeplot)** – ⭐ 273 – Inference of ploidy and heterozygosity structure using whole genome sequencing data
 - **[songlab-cal/gpn](https://github.com/songlab-cal/gpn)** – ⭐ 272 – Genomic Pre-trained Network
 - **[labgem/PPanGGOLiN](https://github.com/labgem/PPanGGOLiN)** – ⭐ 272 – Build a partitioned pangenome graph from microbial genomes
-- **[GenerTeam/GENERanno](https://github.com/GenerTeam/GENERanno)** – ⭐ 269 – GENERanno: A Genomic Foundation Model for Metagenomic Annotation
+- **[GenerTeam/GENERanno](https://github.com/GenerTeam/GENERanno)** – ⭐ 271 – GENERanno: A Genomic Foundation Model for Metagenomic Annotation
 - **[sigven/pcgr](https://github.com/sigven/pcgr)** – ⭐ 268 – Personal Cancer Genome Reporter (PCGR)
 - **[lynnlangit/gcp-for-bioinformatics](https://github.com/lynnlangit/gcp-for-bioinformatics)** – ⭐ 267 – GCP for Bioinformatics Researchers
 - **[biowasm/biowasm](https://github.com/biowasm/biowasm)** – ⭐ 252 – WebAssembly modules for genomics
