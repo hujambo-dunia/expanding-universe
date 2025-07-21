@@ -45,11 +45,11 @@
 - **[chrchang/plink-ng](https://github.com/chrchang/plink-ng)** – ⭐ 459 – PLINK is a free, open-source whole genome association analysis toolset, designed to perform a range of basic, large-scale analyses in a computationally efficient manner.  This is a comprehensive update to it.
 - **[cov-lineages/pangolin](https://github.com/cov-lineages/pangolin)** – ⭐ 439 – Software package for assigning SARS-CoV-2 genome sequences to global lineages.
 - **[GenerTeam/GENERator](https://github.com/GenerTeam/GENERator)** – ⭐ 426 – GENERator: A Long-Context Generative Genomic Foundation Model
-- **[zeqianli/tgv](https://github.com/zeqianli/tgv)** – ⭐ 378 – Explore genomes in the terminal. Light, blazing fast 🚀, vim-motion.
+- **[zeqianli/tgv](https://github.com/zeqianli/tgv)** – ⭐ 379 – Explore genomes in the terminal. Light, blazing fast 🚀, vim-motion.
 - **[whatshap/whatshap](https://github.com/whatshap/whatshap)** – ⭐ 376 – Read-based phasing of genomic variants, also called haplotype assembly
 - **[Ecogenomics/CheckM](https://github.com/Ecogenomics/CheckM)** – ⭐ 376 – Assess the quality of microbial genomes recovered from isolates, single cells, and metagenomes
 - **[lh3/miniprot](https://github.com/lh3/miniprot)** – ⭐ 375 – Align proteins to genomes with splicing and frameshift
-- **[openproblems-bio/openproblems](https://github.com/openproblems-bio/openproblems)** – ⭐ 371 – Formalizing and benchmarking open problems in single-cell genomics
+- **[openproblems-bio/openproblems](https://github.com/openproblems-bio/openproblems)** – ⭐ 372 – Formalizing and benchmarking open problems in single-cell genomics
 - **[genetics-statistics/GEMMA](https://github.com/genetics-statistics/GEMMA)** – ⭐ 366 – Genome-wide Efficient Mixed Model Association
 - **[kcleal/gw](https://github.com/kcleal/gw)** – ⭐ 365 – Genome browser and variant annotation
 - **[nextgenusfs/funannotate](https://github.com/nextgenusfs/funannotate)** – ⭐ 357 – Eukaryotic Genome Annotation Pipeline
