@@ -32,7 +32,7 @@
 - **[jerryji1993/DNABERT](https://github.com/jerryji1993/DNABERT)** – ⭐ 680 – DNABERT: pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome
 - **[instadeepai/nucleotide-transformer](https://github.com/instadeepai/nucleotide-transformer)** – ⭐ 660 – Foundation Models for Genomics & Transcriptomics
 - **[eggnogdb/eggnog-mapper](https://github.com/eggnogdb/eggnog-mapper)** – ⭐ 632 – Fast genome-wide functional annotation through orthology assignment
-- **[zaeleus/noodles](https://github.com/zaeleus/noodles)** – ⭐ 599 – Bioinformatics I/O libraries in Rust
+- **[zaeleus/noodles](https://github.com/zaeleus/noodles)** – ⭐ 600 – Bioinformatics I/O libraries in Rust
 - **[ComparativeGenomicsToolkit/cactus](https://github.com/ComparativeGenomicsToolkit/cactus)** – ⭐ 591 – Official home of genome aligner based upon notion of Cactus graphs
 - **[OpenChemistry/avogadrolibs](https://github.com/OpenChemistry/avogadrolibs)** – ⭐ 538 – Avogadro libraries provide 3D rendering, visualization, analysis and data processing useful in computational chemistry, molecular modeling, bioinformatics, materials science, and related areas.
 - **[oschwengers/bakta](https://github.com/oschwengers/bakta)** – ⭐ 532 – Rapid & standardized annotation of bacterial genomes, MAGs & plasmids
@@ -49,7 +49,7 @@
 - **[whatshap/whatshap](https://github.com/whatshap/whatshap)** – ⭐ 376 – Read-based phasing of genomic variants, also called haplotype assembly
 - **[Ecogenomics/CheckM](https://github.com/Ecogenomics/CheckM)** – ⭐ 376 – Assess the quality of microbial genomes recovered from isolates, single cells, and metagenomes
 - **[lh3/miniprot](https://github.com/lh3/miniprot)** – ⭐ 375 – Align proteins to genomes with splicing and frameshift
-- **[openproblems-bio/openproblems](https://github.com/openproblems-bio/openproblems)** – ⭐ 372 – Formalizing and benchmarking open problems in single-cell genomics
+- **[openproblems-bio/openproblems](https://github.com/openproblems-bio/openproblems)** – ⭐ 373 – Formalizing and benchmarking open problems in single-cell genomics
 - **[genetics-statistics/GEMMA](https://github.com/genetics-statistics/GEMMA)** – ⭐ 366 – Genome-wide Efficient Mixed Model Association
 - **[kcleal/gw](https://github.com/kcleal/gw)** – ⭐ 365 – Genome browser and variant annotation
 - **[nextgenusfs/funannotate](https://github.com/nextgenusfs/funannotate)** – ⭐ 357 – Eukaryotic Genome Annotation Pipeline
