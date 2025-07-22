@@ -1,9 +1,9 @@
 ## Trending Bioinformatics Repositories (Updated: 2025-07-22)
 
-**Showing 74 projects matching the criteria (250+ stars, recent updates)**
+**Showing 75 projects matching the criteria (250+ stars, recent updates)**
 
 - **[deepchem/deepchem](https://github.com/deepchem/deepchem)** – ⭐ 6111 – Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology
-- **[ArcInstitute/evo2](https://github.com/ArcInstitute/evo2)** – ⭐ 2977 – Genome modeling and design across all domains of life
+- **[ArcInstitute/evo2](https://github.com/ArcInstitute/evo2)** – ⭐ 2979 – Genome modeling and design across all domains of life
 - **[satijalab/seurat](https://github.com/satijalab/seurat)** – ⭐ 2476 – R toolkit for single cell genomics
 - **[lh3/minimap2](https://github.com/lh3/minimap2)** – ⭐ 1998 – A versatile pairwise aligner for genomic and spliced nucleotide sequences
 - **[rust-bio/rust-bio](https://github.com/rust-bio/rust-bio)** – ⭐ 1719 – This library provides implementations of many algorithms and data structures that are useful for bioinformatics. All provided implementations are rigorously tested via continuous integration.
@@ -23,18 +23,19 @@
 - **[pysam-developers/pysam](https://github.com/pysam-developers/pysam)** – ⭐ 838 – Pysam is a Python package for reading, manipulating, and writing genomics data such as SAM/BAM/CRAM and VCF/BCF files. It's a lightweight wrapper of the HTSlib API, the same one that powers samtools, bcftools, and tabix.
 - **[tanghaibao/jcvi](https://github.com/tanghaibao/jcvi)** – ⭐ 836 – Python library to facilitate genome assembly, annotation, and comparative genomics
 - **[biotite-dev/biotite](https://github.com/biotite-dev/biotite)** – ⭐ 828 – A comprehensive library for computational molecular biology
-- **[cBioPortal/cbioportal](https://github.com/cBioPortal/cbioportal)** – ⭐ 826 – cBioPortal for Cancer Genomics
+- **[cBioPortal/cbioportal](https://github.com/cBioPortal/cbioportal)** – ⭐ 827 – cBioPortal for Cancer Genomics
 - **[davidemms/OrthoFinder](https://github.com/davidemms/OrthoFinder)** – ⭐ 787 – Phylogenetic orthology inference for comparative genomics
 - **[thackl/gggenomes](https://github.com/thackl/gggenomes)** – ⭐ 688 – A grammar of graphics for comparative genomics
 - **[igvteam/igv](https://github.com/igvteam/igv)** – ⭐ 686 – Integrative Genomics Viewer. Fast, efficient, scalable visualization tool for genomics data and annotations
 - **[marbl/canu](https://github.com/marbl/canu)** – ⭐ 684 – A single molecule sequence assembler for genomes large and small.
 - **[igvteam/igv.js](https://github.com/igvteam/igv.js)** – ⭐ 680 – Embeddable genomic visualization component based on the Integrative Genomics Viewer
 - **[jerryji1993/DNABERT](https://github.com/jerryji1993/DNABERT)** – ⭐ 680 – DNABERT: pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome
-- **[instadeepai/nucleotide-transformer](https://github.com/instadeepai/nucleotide-transformer)** – ⭐ 661 – Foundation Models for Genomics & Transcriptomics
+- **[instadeepai/nucleotide-transformer](https://github.com/instadeepai/nucleotide-transformer)** – ⭐ 662 – Foundation Models for Genomics & Transcriptomics
 - **[eggnogdb/eggnog-mapper](https://github.com/eggnogdb/eggnog-mapper)** – ⭐ 633 – Fast genome-wide functional annotation through orthology assignment
 - **[zaeleus/noodles](https://github.com/zaeleus/noodles)** – ⭐ 600 – Bioinformatics I/O libraries in Rust
 - **[ComparativeGenomicsToolkit/cactus](https://github.com/ComparativeGenomicsToolkit/cactus)** – ⭐ 592 – Official home of genome aligner based upon notion of Cactus graphs
 - **[OpenChemistry/avogadrolibs](https://github.com/OpenChemistry/avogadrolibs)** – ⭐ 539 – Avogadro libraries provide 3D rendering, visualization, analysis and data processing useful in computational chemistry, molecular modeling, bioinformatics, materials science, and related areas.
+- **[jorvis/biocode](https://github.com/jorvis/biocode)** – ⭐ 534 – Bioinformatics code libraries and scripts
 - **[oschwengers/bakta](https://github.com/oschwengers/bakta)** – ⭐ 532 – Rapid & standardized annotation of bacterial genomes, MAGs & plasmids
 - **[Ecogenomics/GTDBTk](https://github.com/Ecogenomics/GTDBTk)** – ⭐ 532 – GTDB-Tk: a toolkit for assigning objective taxonomic classifications to bacterial and archaeal genomes.
 - **[sourmash-bio/sourmash](https://github.com/sourmash-bio/sourmash)** – ⭐ 513 – Quickly search, compare, and analyze genomic and metagenomic data sets.
@@ -47,8 +48,8 @@
 - **[GenerTeam/GENERator](https://github.com/GenerTeam/GENERator)** – ⭐ 426 – GENERator: A Long-Context Generative Genomic Foundation Model
 - **[zeqianli/tgv](https://github.com/zeqianli/tgv)** – ⭐ 379 – Explore genomes in the terminal. Light, blazing fast 🚀, vim-motion.
 - **[whatshap/whatshap](https://github.com/whatshap/whatshap)** – ⭐ 376 – Read-based phasing of genomic variants, also called haplotype assembly
+- **[lh3/miniprot](https://github.com/lh3/miniprot)** – ⭐ 376 – Align proteins to genomes with splicing and frameshift
 - **[Ecogenomics/CheckM](https://github.com/Ecogenomics/CheckM)** – ⭐ 376 – Assess the quality of microbial genomes recovered from isolates, single cells, and metagenomes
-- **[lh3/miniprot](https://github.com/lh3/miniprot)** – ⭐ 375 – Align proteins to genomes with splicing and frameshift
 - **[openproblems-bio/openproblems](https://github.com/openproblems-bio/openproblems)** – ⭐ 374 – Formalizing and benchmarking open problems in single-cell genomics
 - **[genetics-statistics/GEMMA](https://github.com/genetics-statistics/GEMMA)** – ⭐ 366 – Genome-wide Efficient Mixed Model Association
 - **[kcleal/gw](https://github.com/kcleal/gw)** – ⭐ 365 – Genome browser and variant annotation
@@ -69,7 +70,7 @@
 - **[MariaNattestad/Ribbon](https://github.com/MariaNattestad/Ribbon)** – ⭐ 285 – A genome browser designed for complex structural variants and long reads.
 - **[evanpeikon/Bioinformatics_Toolkit](https://github.com/evanpeikon/Bioinformatics_Toolkit)** – ⭐ 284 – A growing collection of bioinformatics tutorials, project guides, tools, and articles I’ve developed to make bioinformatics more accessible.
 - **[projectglow/glow](https://github.com/projectglow/glow)** – ⭐ 284 – An open-source toolkit for large-scale genomic analysis
-- **[GenerTeam/GENERanno](https://github.com/GenerTeam/GENERanno)** – ⭐ 280 – GENERanno: A Genomic Foundation Model for Metagenomic Annotation
+- **[GenerTeam/GENERanno](https://github.com/GenerTeam/GENERanno)** – ⭐ 282 – GENERanno: A Genomic Foundation Model for Metagenomic Annotation
 - **[KamilSJaron/smudgeplot](https://github.com/KamilSJaron/smudgeplot)** – ⭐ 274 – Inference of ploidy and heterozygosity structure using whole genome sequencing data
 - **[songlab-cal/gpn](https://github.com/songlab-cal/gpn)** – ⭐ 273 – Genomic Pre-trained Network
 - **[labgem/PPanGGOLiN](https://github.com/labgem/PPanGGOLiN)** – ⭐ 273 – Build a partitioned pangenome graph from microbial genomes
