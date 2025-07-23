@@ -22,14 +22,14 @@
 - **[ablab/spades](https://github.com/ablab/spades)** – ⭐ 852 – SPAdes Genome Assembler
 - **[pysam-developers/pysam](https://github.com/pysam-developers/pysam)** – ⭐ 838 – Pysam is a Python package for reading, manipulating, and writing genomics data such as SAM/BAM/CRAM and VCF/BCF files. It's a lightweight wrapper of the HTSlib API, the same one that powers samtools, bcftools, and tabix.
 - **[tanghaibao/jcvi](https://github.com/tanghaibao/jcvi)** – ⭐ 835 – Python library to facilitate genome assembly, annotation, and comparative genomics
-- **[biotite-dev/biotite](https://github.com/biotite-dev/biotite)** – ⭐ 828 – A comprehensive library for computational molecular biology
+- **[biotite-dev/biotite](https://github.com/biotite-dev/biotite)** – ⭐ 829 – A comprehensive library for computational molecular biology
 - **[cBioPortal/cbioportal](https://github.com/cBioPortal/cbioportal)** – ⭐ 827 – cBioPortal for Cancer Genomics
-- **[davidemms/OrthoFinder](https://github.com/davidemms/OrthoFinder)** – ⭐ 786 – Phylogenetic orthology inference for comparative genomics
-- **[thackl/gggenomes](https://github.com/thackl/gggenomes)** – ⭐ 688 – A grammar of graphics for comparative genomics
+- **[davidemms/OrthoFinder](https://github.com/davidemms/OrthoFinder)** – ⭐ 787 – Phylogenetic orthology inference for comparative genomics
+- **[thackl/gggenomes](https://github.com/thackl/gggenomes)** – ⭐ 689 – A grammar of graphics for comparative genomics
 - **[igvteam/igv](https://github.com/igvteam/igv)** – ⭐ 686 – Integrative Genomics Viewer. Fast, efficient, scalable visualization tool for genomics data and annotations
 - **[marbl/canu](https://github.com/marbl/canu)** – ⭐ 684 – A single molecule sequence assembler for genomes large and small.
+- **[jerryji1993/DNABERT](https://github.com/jerryji1993/DNABERT)** – ⭐ 681 – DNABERT: pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome
 - **[igvteam/igv.js](https://github.com/igvteam/igv.js)** – ⭐ 680 – Embeddable genomic visualization component based on the Integrative Genomics Viewer
-- **[jerryji1993/DNABERT](https://github.com/jerryji1993/DNABERT)** – ⭐ 680 – DNABERT: pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome
 - **[instadeepai/nucleotide-transformer](https://github.com/instadeepai/nucleotide-transformer)** – ⭐ 663 – Foundation Models for Genomics & Transcriptomics
 - **[eggnogdb/eggnog-mapper](https://github.com/eggnogdb/eggnog-mapper)** – ⭐ 633 – Fast genome-wide functional annotation through orthology assignment
 - **[zaeleus/noodles](https://github.com/zaeleus/noodles)** – ⭐ 600 – Bioinformatics I/O libraries in Rust
@@ -65,7 +65,7 @@
 - **[MrOlm/drep](https://github.com/MrOlm/drep)** – ⭐ 302 – Rapid comparison and dereplication of genomes
 - **[xiaolei-lab/rMVP](https://github.com/xiaolei-lab/rMVP)** – ⭐ 302 – :postbox: A Memory-efficient, Visualization-enhanced, and Parallel-accelerated Tool For Genome-Wide Association Study
 - **[CompEpigen/figeno](https://github.com/CompEpigen/figeno)** – ⭐ 296 – Tool for plotting sequencing data along genomic coordinates.
-- **[GenerTeam/GENERanno](https://github.com/GenerTeam/GENERanno)** – ⭐ 290 – GENERanno: A Genomic Foundation Model for Metagenomic Annotation
+- **[GenerTeam/GENERanno](https://github.com/GenerTeam/GENERanno)** – ⭐ 293 – GENERanno: A Genomic Foundation Model for Metagenomic Annotation
 - **[WrightonLabCSU/DRAM](https://github.com/WrightonLabCSU/DRAM)** – ⭐ 288 – Distilled and Refined Annotation of Metabolism: A tool for the annotation and curation of function for microbial and viral genomes
 - **[wurmlab/sequenceserver](https://github.com/wurmlab/sequenceserver)** – ⭐ 286 – Intuitive graphical web interface for running BLAST bioinformatics tool (i.e. have your own custom NCBI BLAST site!)
 - **[MariaNattestad/Ribbon](https://github.com/MariaNattestad/Ribbon)** – ⭐ 285 – A genome browser designed for complex structural variants and long reads.
@@ -76,4 +76,4 @@
 - **[labgem/PPanGGOLiN](https://github.com/labgem/PPanGGOLiN)** – ⭐ 273 – Build a partitioned pangenome graph from microbial genomes
 - **[lynnlangit/gcp-for-bioinformatics](https://github.com/lynnlangit/gcp-for-bioinformatics)** – ⭐ 268 – GCP for Bioinformatics Researchers
 - **[sigven/pcgr](https://github.com/sigven/pcgr)** – ⭐ 268 – Personal Cancer Genome Reporter (PCGR)
-- **[biowasm/biowasm](https://github.com/biowasm/biowasm)** – ⭐ 252 – WebAssembly modules for genomics
+- **[biowasm/biowasm](https://github.com/biowasm/biowasm)** – ⭐ 253 – WebAssembly modules for genomics
