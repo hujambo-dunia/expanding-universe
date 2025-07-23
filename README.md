@@ -27,7 +27,7 @@
 - **[davidemms/OrthoFinder](https://github.com/davidemms/OrthoFinder)** – ⭐ 787 – Phylogenetic orthology inference for comparative genomics
 - **[thackl/gggenomes](https://github.com/thackl/gggenomes)** – ⭐ 689 – A grammar of graphics for comparative genomics
 - **[igvteam/igv](https://github.com/igvteam/igv)** – ⭐ 686 – Integrative Genomics Viewer. Fast, efficient, scalable visualization tool for genomics data and annotations
-- **[marbl/canu](https://github.com/marbl/canu)** – ⭐ 684 – A single molecule sequence assembler for genomes large and small.
+- **[marbl/canu](https://github.com/marbl/canu)** – ⭐ 685 – A single molecule sequence assembler for genomes large and small.
 - **[jerryji1993/DNABERT](https://github.com/jerryji1993/DNABERT)** – ⭐ 681 – DNABERT: pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome
 - **[igvteam/igv.js](https://github.com/igvteam/igv.js)** – ⭐ 680 – Embeddable genomic visualization component based on the Integrative Genomics Viewer
 - **[instadeepai/nucleotide-transformer](https://github.com/instadeepai/nucleotide-transformer)** – ⭐ 663 – Foundation Models for Genomics & Transcriptomics
@@ -36,7 +36,7 @@
 - **[ComparativeGenomicsToolkit/cactus](https://github.com/ComparativeGenomicsToolkit/cactus)** – ⭐ 592 – Official home of genome aligner based upon notion of Cactus graphs
 - **[OpenChemistry/avogadrolibs](https://github.com/OpenChemistry/avogadrolibs)** – ⭐ 539 – Avogadro libraries provide 3D rendering, visualization, analysis and data processing useful in computational chemistry, molecular modeling, bioinformatics, materials science, and related areas.
 - **[jorvis/biocode](https://github.com/jorvis/biocode)** – ⭐ 534 – Bioinformatics code libraries and scripts
-- **[oschwengers/bakta](https://github.com/oschwengers/bakta)** – ⭐ 533 – Rapid & standardized annotation of bacterial genomes, MAGs & plasmids
+- **[oschwengers/bakta](https://github.com/oschwengers/bakta)** – ⭐ 534 – Rapid & standardized annotation of bacterial genomes, MAGs & plasmids
 - **[Ecogenomics/GTDBTk](https://github.com/Ecogenomics/GTDBTk)** – ⭐ 532 – GTDB-Tk: a toolkit for assigning objective taxonomic classifications to bacterial and archaeal genomes.
 - **[sourmash-bio/sourmash](https://github.com/sourmash-bio/sourmash)** – ⭐ 513 – Quickly search, compare, and analyze genomic and metagenomic data sets.
 - **[lindenb/jvarkit](https://github.com/lindenb/jvarkit)** – ⭐ 505 – Java utilities for Bioinformatics
@@ -58,7 +58,7 @@
 - **[ebi-pf-team/interproscan](https://github.com/ebi-pf-team/interproscan)** – ⭐ 338 – Genome-scale protein function classification
 - **[fulcrumgenomics/fgbio](https://github.com/fulcrumgenomics/fgbio)** – ⭐ 336 – Tools for working with genomic and high throughput sequencing data.
 - **[higlass/higlass](https://github.com/higlass/higlass)** – ⭐ 328 – Fast, flexible and extensible genome browser.
-- **[bernatgel/karyoploteR](https://github.com/bernatgel/karyoploteR)** – ⭐ 326 – karyoploteR - An R/Bioconductor package to plot arbitrary data along the genome
+- **[bernatgel/karyoploteR](https://github.com/bernatgel/karyoploteR)** – ⭐ 327 – karyoploteR - An R/Bioconductor package to plot arbitrary data along the genome
 - **[brewsci/homebrew-bio](https://github.com/brewsci/homebrew-bio)** – ⭐ 316 – :beer::microscope: Bioinformatics formulae for the Homebrew package manager (macOS and Linux)
 - **[Gaius-Augustus/Augustus](https://github.com/Gaius-Augustus/Augustus)** – ⭐ 313 – Genome annotation with AUGUSTUS
 - **[pinellolab/CRISPResso2](https://github.com/pinellolab/CRISPResso2)** – ⭐ 311 – Analysis of deep sequencing data for rapid and intuitive interpretation of genome editing experiments
