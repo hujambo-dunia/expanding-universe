@@ -5,7 +5,7 @@
 - **[deepchem/deepchem](https://github.com/deepchem/deepchem)** – ⭐ 6114 – Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology
 - **[ArcInstitute/evo2](https://github.com/ArcInstitute/evo2)** – ⭐ 2982 – Genome modeling and design across all domains of life
 - **[satijalab/seurat](https://github.com/satijalab/seurat)** – ⭐ 2477 – R toolkit for single cell genomics
-- **[lh3/minimap2](https://github.com/lh3/minimap2)** – ⭐ 1998 – A versatile pairwise aligner for genomic and spliced nucleotide sequences
+- **[lh3/minimap2](https://github.com/lh3/minimap2)** – ⭐ 1999 – A versatile pairwise aligner for genomic and spliced nucleotide sequences
 - **[rust-bio/rust-bio](https://github.com/rust-bio/rust-bio)** – ⭐ 1719 – This library provides implementations of many algorithms and data structures that are useful for bioinformatics. All provided implementations are rigorously tested via continuous integration.
 - **[materialsproject/pymatgen](https://github.com/materialsproject/pymatgen)** – ⭐ 1686 – Python Materials Genomics (pymatgen) is a robust materials analysis code that defines classes for structures and molecules with support for many electronic structure codes. It powers the Materials Project.
 - **[duerrsimon/bioicons](https://github.com/duerrsimon/bioicons)** – ⭐ 1501 – A library of free open source icons for science illustrations in biology and chemistry
@@ -37,7 +37,7 @@
 - **[OpenChemistry/avogadrolibs](https://github.com/OpenChemistry/avogadrolibs)** – ⭐ 539 – Avogadro libraries provide 3D rendering, visualization, analysis and data processing useful in computational chemistry, molecular modeling, bioinformatics, materials science, and related areas.
 - **[oschwengers/bakta](https://github.com/oschwengers/bakta)** – ⭐ 535 – Rapid & standardized annotation of bacterial genomes, MAGs & plasmids
 - **[jorvis/biocode](https://github.com/jorvis/biocode)** – ⭐ 534 – Bioinformatics code libraries and scripts
-- **[Ecogenomics/GTDBTk](https://github.com/Ecogenomics/GTDBTk)** – ⭐ 532 – GTDB-Tk: a toolkit for assigning objective taxonomic classifications to bacterial and archaeal genomes.
+- **[Ecogenomics/GTDBTk](https://github.com/Ecogenomics/GTDBTk)** – ⭐ 533 – GTDB-Tk: a toolkit for assigning objective taxonomic classifications to bacterial and archaeal genomes.
 - **[sourmash-bio/sourmash](https://github.com/sourmash-bio/sourmash)** – ⭐ 513 – Quickly search, compare, and analyze genomic and metagenomic data sets.
 - **[lindenb/jvarkit](https://github.com/lindenb/jvarkit)** – ⭐ 505 – Java utilities for Bioinformatics
 - **[Ensembl/ensembl-vep](https://github.com/Ensembl/ensembl-vep)** – ⭐ 495 – The Ensembl Variant Effect Predictor predicts the functional effects of genomic variants
@@ -63,9 +63,9 @@
 - **[brewsci/homebrew-bio](https://github.com/brewsci/homebrew-bio)** – ⭐ 316 – :beer::microscope: Bioinformatics formulae for the Homebrew package manager (macOS and Linux)
 - **[Gaius-Augustus/Augustus](https://github.com/Gaius-Augustus/Augustus)** – ⭐ 313 – Genome annotation with AUGUSTUS
 - **[pinellolab/CRISPResso2](https://github.com/pinellolab/CRISPResso2)** – ⭐ 311 – Analysis of deep sequencing data for rapid and intuitive interpretation of genome editing experiments
-- **[GenerTeam/GENERanno](https://github.com/GenerTeam/GENERanno)** – ⭐ 303 – GENERanno: A Genomic Foundation Model for Metagenomic Annotation
+- **[xiaolei-lab/rMVP](https://github.com/xiaolei-lab/rMVP)** – ⭐ 303 – :postbox: A Memory-efficient, Visualization-enhanced, and Parallel-accelerated Tool For Genome-Wide Association Study
 - **[MrOlm/drep](https://github.com/MrOlm/drep)** – ⭐ 302 – Rapid comparison and dereplication of genomes
-- **[xiaolei-lab/rMVP](https://github.com/xiaolei-lab/rMVP)** – ⭐ 302 – :postbox: A Memory-efficient, Visualization-enhanced, and Parallel-accelerated Tool For Genome-Wide Association Study
+- **[GenerTeam/GENERanno](https://github.com/GenerTeam/GENERanno)** – ⭐ 302 – GENERanno: A Genomic Foundation Model for Metagenomic Annotation
 - **[CompEpigen/figeno](https://github.com/CompEpigen/figeno)** – ⭐ 296 – Tool for plotting sequencing data along genomic coordinates.
 - **[WrightonLabCSU/DRAM](https://github.com/WrightonLabCSU/DRAM)** – ⭐ 288 – Distilled and Refined Annotation of Metabolism: A tool for the annotation and curation of function for microbial and viral genomes
 - **[wurmlab/sequenceserver](https://github.com/wurmlab/sequenceserver)** – ⭐ 286 – Intuitive graphical web interface for running BLAST bioinformatics tool (i.e. have your own custom NCBI BLAST site!)
