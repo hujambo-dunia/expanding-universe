@@ -2,7 +2,7 @@
 
 **Showing 76 projects matching the criteria (250+ stars, recent updates)**
 
-- **[deepchem/deepchem](https://github.com/deepchem/deepchem)** – ⭐ 6115 – Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology
+- **[deepchem/deepchem](https://github.com/deepchem/deepchem)** – ⭐ 6116 – Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology
 - **[ArcInstitute/evo2](https://github.com/ArcInstitute/evo2)** – ⭐ 2982 – Genome modeling and design across all domains of life
 - **[satijalab/seurat](https://github.com/satijalab/seurat)** – ⭐ 2477 – R toolkit for single cell genomics
 - **[lh3/minimap2](https://github.com/lh3/minimap2)** – ⭐ 1999 – A versatile pairwise aligner for genomic and spliced nucleotide sequences
@@ -22,7 +22,7 @@
 - **[ablab/spades](https://github.com/ablab/spades)** – ⭐ 853 – SPAdes Genome Assembler
 - **[pysam-developers/pysam](https://github.com/pysam-developers/pysam)** – ⭐ 839 – Pysam is a Python package for reading, manipulating, and writing genomics data such as SAM/BAM/CRAM and VCF/BCF files. It's a lightweight wrapper of the HTSlib API, the same one that powers samtools, bcftools, and tabix.
 - **[tanghaibao/jcvi](https://github.com/tanghaibao/jcvi)** – ⭐ 835 – Python library to facilitate genome assembly, annotation, and comparative genomics
-- **[biotite-dev/biotite](https://github.com/biotite-dev/biotite)** – ⭐ 829 – A comprehensive library for computational molecular biology
+- **[biotite-dev/biotite](https://github.com/biotite-dev/biotite)** – ⭐ 830 – A comprehensive library for computational molecular biology
 - **[cBioPortal/cbioportal](https://github.com/cBioPortal/cbioportal)** – ⭐ 827 – cBioPortal for Cancer Genomics
 - **[davidemms/OrthoFinder](https://github.com/davidemms/OrthoFinder)** – ⭐ 788 – Phylogenetic orthology inference for comparative genomics
 - **[thackl/gggenomes](https://github.com/thackl/gggenomes)** – ⭐ 689 – A grammar of graphics for comparative genomics
@@ -67,14 +67,14 @@
 - **[MrOlm/drep](https://github.com/MrOlm/drep)** – ⭐ 302 – Rapid comparison and dereplication of genomes
 - **[GenerTeam/GENERanno](https://github.com/GenerTeam/GENERanno)** – ⭐ 302 – GENERanno: A Genomic Foundation Model for Metagenomic Annotation
 - **[CompEpigen/figeno](https://github.com/CompEpigen/figeno)** – ⭐ 296 – Tool for plotting sequencing data along genomic coordinates.
-- **[WrightonLabCSU/DRAM](https://github.com/WrightonLabCSU/DRAM)** – ⭐ 288 – Distilled and Refined Annotation of Metabolism: A tool for the annotation and curation of function for microbial and viral genomes
+- **[WrightonLabCSU/DRAM](https://github.com/WrightonLabCSU/DRAM)** – ⭐ 289 – Distilled and Refined Annotation of Metabolism: A tool for the annotation and curation of function for microbial and viral genomes
 - **[wurmlab/sequenceserver](https://github.com/wurmlab/sequenceserver)** – ⭐ 286 – Intuitive graphical web interface for running BLAST bioinformatics tool (i.e. have your own custom NCBI BLAST site!)
 - **[MariaNattestad/Ribbon](https://github.com/MariaNattestad/Ribbon)** – ⭐ 285 – A genome browser designed for complex structural variants and long reads.
 - **[evanpeikon/Bioinformatics_Toolkit](https://github.com/evanpeikon/Bioinformatics_Toolkit)** – ⭐ 284 – A growing collection of bioinformatics tutorials, project guides, tools, and articles I’ve developed to make bioinformatics more accessible.
 - **[projectglow/glow](https://github.com/projectglow/glow)** – ⭐ 284 – An open-source toolkit for large-scale genomic analysis
+- **[labgem/PPanGGOLiN](https://github.com/labgem/PPanGGOLiN)** – ⭐ 274 – Build a partitioned pangenome graph from microbial genomes
 - **[KamilSJaron/smudgeplot](https://github.com/KamilSJaron/smudgeplot)** – ⭐ 274 – Inference of ploidy and heterozygosity structure using whole genome sequencing data
 - **[songlab-cal/gpn](https://github.com/songlab-cal/gpn)** – ⭐ 273 – Genomic Pre-trained Network
-- **[labgem/PPanGGOLiN](https://github.com/labgem/PPanGGOLiN)** – ⭐ 273 – Build a partitioned pangenome graph from microbial genomes
 - **[lynnlangit/gcp-for-bioinformatics](https://github.com/lynnlangit/gcp-for-bioinformatics)** – ⭐ 268 – GCP for Bioinformatics Researchers
 - **[sigven/pcgr](https://github.com/sigven/pcgr)** – ⭐ 268 – Personal Cancer Genome Reporter (PCGR)
 - **[biowasm/biowasm](https://github.com/biowasm/biowasm)** – ⭐ 253 – WebAssembly modules for genomics
