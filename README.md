@@ -40,7 +40,7 @@
 - **[Ecogenomics/GTDBTk](https://github.com/Ecogenomics/GTDBTk)** – ⭐ 534 – GTDB-Tk: a toolkit for assigning objective taxonomic classifications to bacterial and archaeal genomes.
 - **[sourmash-bio/sourmash](https://github.com/sourmash-bio/sourmash)** – ⭐ 513 – Quickly search, compare, and analyze genomic and metagenomic data sets.
 - **[lindenb/jvarkit](https://github.com/lindenb/jvarkit)** – ⭐ 505 – Java utilities for Bioinformatics
-- **[Ensembl/ensembl-vep](https://github.com/Ensembl/ensembl-vep)** – ⭐ 495 – The Ensembl Variant Effect Predictor predicts the functional effects of genomic variants
+- **[Ensembl/ensembl-vep](https://github.com/Ensembl/ensembl-vep)** – ⭐ 496 – The Ensembl Variant Effect Predictor predicts the functional effects of genomic variants
 - **[SciML/Catalyst.jl](https://github.com/SciML/Catalyst.jl)** – ⭐ 492 – Chemical reaction network and systems biology interface for scientific machine learning (SciML). High performance, GPU-parallelized, and O(1) solvers in open source software.
 - **[GMOD/jbrowse](https://github.com/GMOD/jbrowse)** – ⭐ 471 – JBrowse 1, a full-featured genome browser built with JavaScript and HTML5. For JBrowse 2, see https://github.com/GMOD/jbrowse-components.
 - **[chrchang/plink-ng](https://github.com/chrchang/plink-ng)** – ⭐ 459 – PLINK is a free, open-source whole genome association analysis toolset, designed to perform a range of basic, large-scale analyses in a computationally efficient manner.  This is a comprehensive update to it.
