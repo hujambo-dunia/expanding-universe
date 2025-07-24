@@ -1,8 +1,8 @@
 ## Trending Bioinformatics Repositories (Updated: 2025-07-24)
 
-**Showing 75 projects matching the criteria (250+ stars, recent updates)**
+**Showing 76 projects matching the criteria (250+ stars, recent updates)**
 
-- **[deepchem/deepchem](https://github.com/deepchem/deepchem)** – ⭐ 6113 – Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology
+- **[deepchem/deepchem](https://github.com/deepchem/deepchem)** – ⭐ 6114 – Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology
 - **[ArcInstitute/evo2](https://github.com/ArcInstitute/evo2)** – ⭐ 2980 – Genome modeling and design across all domains of life
 - **[satijalab/seurat](https://github.com/satijalab/seurat)** – ⭐ 2477 – R toolkit for single cell genomics
 - **[lh3/minimap2](https://github.com/lh3/minimap2)** – ⭐ 1998 – A versatile pairwise aligner for genomic and spliced nucleotide sequences
@@ -46,6 +46,7 @@
 - **[chrchang/plink-ng](https://github.com/chrchang/plink-ng)** – ⭐ 459 – PLINK is a free, open-source whole genome association analysis toolset, designed to perform a range of basic, large-scale analyses in a computationally efficient manner.  This is a comprehensive update to it.
 - **[cov-lineages/pangolin](https://github.com/cov-lineages/pangolin)** – ⭐ 439 – Software package for assigning SARS-CoV-2 genome sequences to global lineages.
 - **[GenerTeam/GENERator](https://github.com/GenerTeam/GENERator)** – ⭐ 426 – GENERator: A Long-Context Generative Genomic Foundation Model
+- **[ParBLiSS/FastANI](https://github.com/ParBLiSS/FastANI)** – ⭐ 418 – Fast Whole-Genome Similarity (ANI) Estimation
 - **[zeqianli/tgv](https://github.com/zeqianli/tgv)** – ⭐ 379 – Explore genomes in the terminal. Light, blazing fast 🚀, vim-motion.
 - **[whatshap/whatshap](https://github.com/whatshap/whatshap)** – ⭐ 376 – Read-based phasing of genomic variants, also called haplotype assembly
 - **[lh3/miniprot](https://github.com/lh3/miniprot)** – ⭐ 376 – Align proteins to genomes with splicing and frameshift
