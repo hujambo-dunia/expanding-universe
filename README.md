@@ -28,8 +28,8 @@
 - **[thackl/gggenomes](https://github.com/thackl/gggenomes)** – ⭐ 689 – A grammar of graphics for comparative genomics
 - **[igvteam/igv](https://github.com/igvteam/igv)** – ⭐ 686 – Integrative Genomics Viewer. Fast, efficient, scalable visualization tool for genomics data and annotations
 - **[marbl/canu](https://github.com/marbl/canu)** – ⭐ 685 – A single molecule sequence assembler for genomes large and small.
-- **[jerryji1993/DNABERT](https://github.com/jerryji1993/DNABERT)** – ⭐ 681 – DNABERT: pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome
 - **[igvteam/igv.js](https://github.com/igvteam/igv.js)** – ⭐ 680 – Embeddable genomic visualization component based on the Integrative Genomics Viewer
+- **[jerryji1993/DNABERT](https://github.com/jerryji1993/DNABERT)** – ⭐ 680 – DNABERT: pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome
 - **[instadeepai/nucleotide-transformer](https://github.com/instadeepai/nucleotide-transformer)** – ⭐ 665 – Foundation Models for Genomics & Transcriptomics
 - **[eggnogdb/eggnog-mapper](https://github.com/eggnogdb/eggnog-mapper)** – ⭐ 633 – Fast genome-wide functional annotation through orthology assignment
 - **[zaeleus/noodles](https://github.com/zaeleus/noodles)** – ⭐ 600 – Bioinformatics I/O libraries in Rust
