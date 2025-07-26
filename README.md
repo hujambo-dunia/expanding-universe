@@ -52,8 +52,8 @@
 - **[lh3/miniprot](https://github.com/lh3/miniprot)** – ⭐ 376 – Align proteins to genomes with splicing and frameshift
 - **[Ecogenomics/CheckM](https://github.com/Ecogenomics/CheckM)** – ⭐ 376 – Assess the quality of microbial genomes recovered from isolates, single cells, and metagenomes
 - **[openproblems-bio/openproblems](https://github.com/openproblems-bio/openproblems)** – ⭐ 375 – Formalizing and benchmarking open problems in single-cell genomics
+- **[kcleal/gw](https://github.com/kcleal/gw)** – ⭐ 367 – Genome browser and variant annotation
 - **[genetics-statistics/GEMMA](https://github.com/genetics-statistics/GEMMA)** – ⭐ 366 – Genome-wide Efficient Mixed Model Association
-- **[kcleal/gw](https://github.com/kcleal/gw)** – ⭐ 366 – Genome browser and variant annotation
 - **[nextgenusfs/funannotate](https://github.com/nextgenusfs/funannotate)** – ⭐ 357 – Eukaryotic Genome Annotation Pipeline
 - **[ncbi/pgap](https://github.com/ncbi/pgap)** – ⭐ 344 – NCBI Prokaryotic Genome Annotation Pipeline
 - **[ebi-pf-team/interproscan](https://github.com/ebi-pf-team/interproscan)** – ⭐ 338 – Genome-scale protein function classification
