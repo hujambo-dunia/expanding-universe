@@ -54,7 +54,7 @@
 - **[openproblems-bio/openproblems](https://github.com/openproblems-bio/openproblems)** – ⭐ 375 – Formalizing and benchmarking open problems in single-cell genomics
 - **[kcleal/gw](https://github.com/kcleal/gw)** – ⭐ 367 – Genome browser and variant annotation
 - **[genetics-statistics/GEMMA](https://github.com/genetics-statistics/GEMMA)** – ⭐ 366 – Genome-wide Efficient Mixed Model Association
-- **[nextgenusfs/funannotate](https://github.com/nextgenusfs/funannotate)** – ⭐ 357 – Eukaryotic Genome Annotation Pipeline
+- **[nextgenusfs/funannotate](https://github.com/nextgenusfs/funannotate)** – ⭐ 358 – Eukaryotic Genome Annotation Pipeline
 - **[ncbi/pgap](https://github.com/ncbi/pgap)** – ⭐ 344 – NCBI Prokaryotic Genome Annotation Pipeline
 - **[ebi-pf-team/interproscan](https://github.com/ebi-pf-team/interproscan)** – ⭐ 338 – Genome-scale protein function classification
 - **[fulcrumgenomics/fgbio](https://github.com/fulcrumgenomics/fgbio)** – ⭐ 336 – Tools for working with genomic and high throughput sequencing data.
@@ -63,7 +63,7 @@
 - **[brewsci/homebrew-bio](https://github.com/brewsci/homebrew-bio)** – ⭐ 316 – :beer::microscope: Bioinformatics formulae for the Homebrew package manager (macOS and Linux)
 - **[Gaius-Augustus/Augustus](https://github.com/Gaius-Augustus/Augustus)** – ⭐ 313 – Genome annotation with AUGUSTUS
 - **[pinellolab/CRISPResso2](https://github.com/pinellolab/CRISPResso2)** – ⭐ 311 – Analysis of deep sequencing data for rapid and intuitive interpretation of genome editing experiments
-- **[xiaolei-lab/rMVP](https://github.com/xiaolei-lab/rMVP)** – ⭐ 303 – :postbox: A Memory-efficient, Visualization-enhanced, and Parallel-accelerated Tool For Genome-Wide Association Study
+- **[xiaolei-lab/rMVP](https://github.com/xiaolei-lab/rMVP)** – ⭐ 304 – :postbox: A Memory-efficient, Visualization-enhanced, and Parallel-accelerated Tool For Genome-Wide Association Study
 - **[MrOlm/drep](https://github.com/MrOlm/drep)** – ⭐ 302 – Rapid comparison and dereplication of genomes
 - **[GenerTeam/GENERanno](https://github.com/GenerTeam/GENERanno)** – ⭐ 302 – GENERanno: A Genomic Foundation Model for Metagenomic Annotation
 - **[CompEpigen/figeno](https://github.com/CompEpigen/figeno)** – ⭐ 296 – Tool for plotting sequencing data along genomic coordinates.
