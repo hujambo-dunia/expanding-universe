@@ -49,8 +49,8 @@
 - **[GenerTeam/GENERator](https://github.com/GenerTeam/GENERator)** – ⭐ 427 – GENERator: A Long-Context Generative Genomic Foundation Model
 - **[ParBLiSS/FastANI](https://github.com/ParBLiSS/FastANI)** – ⭐ 421 – Fast Whole-Genome Similarity (ANI) Estimation
 - **[zeqianli/tgv](https://github.com/zeqianli/tgv)** – ⭐ 380 – Explore genomes in the terminal. Light, blazing fast 🚀, vim-motion.
+- **[openproblems-bio/openproblems](https://github.com/openproblems-bio/openproblems)** – ⭐ 377 – Formalizing and benchmarking open problems in single-cell genomics
 - **[lh3/miniprot](https://github.com/lh3/miniprot)** – ⭐ 377 – Align proteins to genomes with splicing and frameshift
-- **[openproblems-bio/openproblems](https://github.com/openproblems-bio/openproblems)** – ⭐ 376 – Formalizing and benchmarking open problems in single-cell genomics
 - **[whatshap/whatshap](https://github.com/whatshap/whatshap)** – ⭐ 376 – Read-based phasing of genomic variants, also called haplotype assembly
 - **[Ecogenomics/CheckM](https://github.com/Ecogenomics/CheckM)** – ⭐ 376 – Assess the quality of microbial genomes recovered from isolates, single cells, and metagenomes
 - **[kcleal/gw](https://github.com/kcleal/gw)** – ⭐ 368 – Genome browser and variant annotation
@@ -69,7 +69,7 @@
 - **[GenerTeam/GENERanno](https://github.com/GenerTeam/GENERanno)** – ⭐ 301 – GENERanno: A Genomic Foundation Model for Metagenomic Annotation
 - **[CompEpigen/figeno](https://github.com/CompEpigen/figeno)** – ⭐ 296 – Tool for plotting sequencing data along genomic coordinates.
 - **[WrightonLabCSU/DRAM](https://github.com/WrightonLabCSU/DRAM)** – ⭐ 289 – Distilled and Refined Annotation of Metabolism: A tool for the annotation and curation of function for microbial and viral genomes
-- **[evanpeikon/Bioinformatics_Toolkit](https://github.com/evanpeikon/Bioinformatics_Toolkit)** – ⭐ 286 – A growing collection of bioinformatics tutorials, project guides, tools, and articles I’ve developed to make bioinformatics more accessible.
+- **[evanpeikon/Bioinformatics_Toolkit](https://github.com/evanpeikon/Bioinformatics_Toolkit)** – ⭐ 287 – A growing collection of bioinformatics tutorials, project guides, tools, and articles I’ve developed to make bioinformatics more accessible.
 - **[wurmlab/sequenceserver](https://github.com/wurmlab/sequenceserver)** – ⭐ 286 – Intuitive graphical web interface for running BLAST bioinformatics tool (i.e. have your own custom NCBI BLAST site!)
 - **[projectglow/glow](https://github.com/projectglow/glow)** – ⭐ 285 – An open-source toolkit for large-scale genomic analysis
 - **[MariaNattestad/Ribbon](https://github.com/MariaNattestad/Ribbon)** – ⭐ 285 – A genome browser designed for complex structural variants and long reads.
