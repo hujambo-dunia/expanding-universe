@@ -32,7 +32,7 @@
 - **[igvteam/igv.js](https://github.com/igvteam/igv.js)** – ⭐ 682 – Embeddable genomic visualization component based on the Integrative Genomics Viewer
 - **[jerryji1993/DNABERT](https://github.com/jerryji1993/DNABERT)** – ⭐ 681 – DNABERT: pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome
 - **[instadeepai/nucleotide-transformer](https://github.com/instadeepai/nucleotide-transformer)** – ⭐ 667 – Foundation Models for Genomics & Transcriptomics
-- **[eggnogdb/eggnog-mapper](https://github.com/eggnogdb/eggnog-mapper)** – ⭐ 633 – Fast genome-wide functional annotation through orthology assignment
+- **[eggnogdb/eggnog-mapper](https://github.com/eggnogdb/eggnog-mapper)** – ⭐ 635 – Fast genome-wide functional annotation through orthology assignment
 - **[zaeleus/noodles](https://github.com/zaeleus/noodles)** – ⭐ 601 – Bioinformatics I/O libraries in Rust
 - **[ComparativeGenomicsToolkit/cactus](https://github.com/ComparativeGenomicsToolkit/cactus)** – ⭐ 592 – Official home of genome aligner based upon notion of Cactus graphs
 - **[OpenChemistry/avogadrolibs](https://github.com/OpenChemistry/avogadrolibs)** – ⭐ 539 – Avogadro libraries provide 3D rendering, visualization, analysis and data processing useful in computational chemistry, molecular modeling, bioinformatics, materials science, and related areas.
@@ -47,7 +47,7 @@
 - **[chrchang/plink-ng](https://github.com/chrchang/plink-ng)** – ⭐ 460 – PLINK is a free, open-source whole genome association analysis toolset, designed to perform a range of basic, large-scale analyses in a computationally efficient manner.  This is a comprehensive update to it.
 - **[cov-lineages/pangolin](https://github.com/cov-lineages/pangolin)** – ⭐ 439 – Software package for assigning SARS-CoV-2 genome sequences to global lineages.
 - **[GenerTeam/GENERator](https://github.com/GenerTeam/GENERator)** – ⭐ 427 – GENERator: A Long-Context Generative Genomic Foundation Model
-- **[ParBLiSS/FastANI](https://github.com/ParBLiSS/FastANI)** – ⭐ 420 – Fast Whole-Genome Similarity (ANI) Estimation
+- **[ParBLiSS/FastANI](https://github.com/ParBLiSS/FastANI)** – ⭐ 421 – Fast Whole-Genome Similarity (ANI) Estimation
 - **[zeqianli/tgv](https://github.com/zeqianli/tgv)** – ⭐ 379 – Explore genomes in the terminal. Light, blazing fast 🚀, vim-motion.
 - **[lh3/miniprot](https://github.com/lh3/miniprot)** – ⭐ 377 – Align proteins to genomes with splicing and frameshift
 - **[openproblems-bio/openproblems](https://github.com/openproblems-bio/openproblems)** – ⭐ 376 – Formalizing and benchmarking open problems in single-cell genomics
