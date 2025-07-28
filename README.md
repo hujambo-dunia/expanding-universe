@@ -4,7 +4,7 @@
 
 - **[deepchem/deepchem](https://github.com/deepchem/deepchem)** – ⭐ 6125 – Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology
 - **[ArcInstitute/evo2](https://github.com/ArcInstitute/evo2)** – ⭐ 2985 – Genome modeling and design across all domains of life
-- **[satijalab/seurat](https://github.com/satijalab/seurat)** – ⭐ 2476 – R toolkit for single cell genomics
+- **[satijalab/seurat](https://github.com/satijalab/seurat)** – ⭐ 2477 – R toolkit for single cell genomics
 - **[lh3/minimap2](https://github.com/lh3/minimap2)** – ⭐ 2002 – A versatile pairwise aligner for genomic and spliced nucleotide sequences
 - **[rust-bio/rust-bio](https://github.com/rust-bio/rust-bio)** – ⭐ 1720 – This library provides implementations of many algorithms and data structures that are useful for bioinformatics. All provided implementations are rigorously tested via continuous integration.
 - **[materialsproject/pymatgen](https://github.com/materialsproject/pymatgen)** – ⭐ 1689 – Python Materials Genomics (pymatgen) is a robust materials analysis code that defines classes for structures and molecules with support for many electronic structure codes. It powers the Materials Project.
@@ -16,8 +16,8 @@
 - **[sib-swiss/training-collection](https://github.com/sib-swiss/training-collection)** – ⭐ 1038 – Collection of bioinformatics training materials
 - **[bigdatagenomics/adam](https://github.com/bigdatagenomics/adam)** – ⭐ 1028 – ADAM is a genomics analysis platform with specialized file formats built using Apache Avro, Apache Spark, and Apache Parquet. Apache 2 licensed.
 - **[kblin/ncbi-genome-download](https://github.com/kblin/ncbi-genome-download)** – ⭐ 1023 – Scripts to download genomes from the NCBI FTP servers
-- **[hail-is/hail](https://github.com/hail-is/hail)** – ⭐ 1018 – Cloud-native genomic dataframes and batch computing
-- **[cmdcolin/awesome-genome-visualization](https://github.com/cmdcolin/awesome-genome-visualization)** – ⭐ 984 – A list of interesting genome browser and genome visualization programs
+- **[hail-is/hail](https://github.com/hail-is/hail)** – ⭐ 1017 – Cloud-native genomic dataframes and batch computing
+- **[cmdcolin/awesome-genome-visualization](https://github.com/cmdcolin/awesome-genome-visualization)** – ⭐ 985 – A list of interesting genome browser and genome visualization programs
 - **[marbl/CHM13](https://github.com/marbl/CHM13)** – ⭐ 971 – The complete sequence of a human genome
 - **[scikit-bio/scikit-bio](https://github.com/scikit-bio/scikit-bio)** – ⭐ 954 – scikit-bio: a community-driven Python library for bioinformatics, providing versatile data structures, algorithms and educational resources.
 - **[ablab/spades](https://github.com/ablab/spades)** – ⭐ 853 – SPAdes Genome Assembler
