@@ -1,4 +1,4 @@
-## Trending Bioinformatics Repositories (Updated: 2025-07-30)
+## Trending Bioinformatics Repositories (Updated: 2025-07-31)
 
 **Showing 77 projects matching the criteria (250+ stars, recent updates)**
 
@@ -26,10 +26,10 @@
 - **[biotite-dev/biotite](https://github.com/biotite-dev/biotite)** – ⭐ 834 – A comprehensive library for computational molecular biology
 - **[cBioPortal/cbioportal](https://github.com/cBioPortal/cbioportal)** – ⭐ 829 – cBioPortal for Cancer Genomics
 - **[davidemms/OrthoFinder](https://github.com/davidemms/OrthoFinder)** – ⭐ 786 – Phylogenetic orthology inference for comparative genomics
+- **[igvteam/igv](https://github.com/igvteam/igv)** – ⭐ 689 – Integrative Genomics Viewer. Fast, efficient, scalable visualization tool for genomics data and annotations
 - **[thackl/gggenomes](https://github.com/thackl/gggenomes)** – ⭐ 689 – A grammar of graphics for comparative genomics
-- **[igvteam/igv](https://github.com/igvteam/igv)** – ⭐ 688 – Integrative Genomics Viewer. Fast, efficient, scalable visualization tool for genomics data and annotations
 - **[marbl/canu](https://github.com/marbl/canu)** – ⭐ 685 – A single molecule sequence assembler for genomes large and small.
-- **[igvteam/igv.js](https://github.com/igvteam/igv.js)** – ⭐ 682 – Embeddable genomic visualization component based on the Integrative Genomics Viewer
+- **[igvteam/igv.js](https://github.com/igvteam/igv.js)** – ⭐ 683 – Embeddable genomic visualization component based on the Integrative Genomics Viewer
 - **[jerryji1993/DNABERT](https://github.com/jerryji1993/DNABERT)** – ⭐ 682 – DNABERT: pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome
 - **[instadeepai/nucleotide-transformer](https://github.com/instadeepai/nucleotide-transformer)** – ⭐ 671 – Foundation Models for Genomics & Transcriptomics
 - **[eggnogdb/eggnog-mapper](https://github.com/eggnogdb/eggnog-mapper)** – ⭐ 638 – Fast genome-wide functional annotation through orthology assignment
