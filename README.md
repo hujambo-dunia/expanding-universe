@@ -2,7 +2,7 @@
 
 **Showing 77 projects matching the criteria (250+ stars, recent updates)**
 
-- **[deepchem/deepchem](https://github.com/deepchem/deepchem)** – ⭐ 6126 – Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology
+- **[deepchem/deepchem](https://github.com/deepchem/deepchem)** – ⭐ 6127 – Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology
 - **[ArcInstitute/evo2](https://github.com/ArcInstitute/evo2)** – ⭐ 2991 – Genome modeling and design across all domains of life
 - **[satijalab/seurat](https://github.com/satijalab/seurat)** – ⭐ 2478 – R toolkit for single cell genomics
 - **[lh3/minimap2](https://github.com/lh3/minimap2)** – ⭐ 2005 – A versatile pairwise aligner for genomic and spliced nucleotide sequences
@@ -22,7 +22,7 @@
 - **[scikit-bio/scikit-bio](https://github.com/scikit-bio/scikit-bio)** – ⭐ 954 – scikit-bio: a community-driven Python library for bioinformatics, providing versatile data structures, algorithms and educational resources.
 - **[ablab/spades](https://github.com/ablab/spades)** – ⭐ 853 – SPAdes Genome Assembler
 - **[pysam-developers/pysam](https://github.com/pysam-developers/pysam)** – ⭐ 842 – Pysam is a Python package for reading, manipulating, and writing genomics data such as SAM/BAM/CRAM and VCF/BCF files. It's a lightweight wrapper of the HTSlib API, the same one that powers samtools, bcftools, and tabix.
-- **[tanghaibao/jcvi](https://github.com/tanghaibao/jcvi)** – ⭐ 838 – Python library to facilitate genome assembly, annotation, and comparative genomics
+- **[tanghaibao/jcvi](https://github.com/tanghaibao/jcvi)** – ⭐ 839 – Python library to facilitate genome assembly, annotation, and comparative genomics
 - **[biotite-dev/biotite](https://github.com/biotite-dev/biotite)** – ⭐ 834 – A comprehensive library for computational molecular biology
 - **[cBioPortal/cbioportal](https://github.com/cBioPortal/cbioportal)** – ⭐ 829 – cBioPortal for Cancer Genomics
 - **[davidemms/OrthoFinder](https://github.com/davidemms/OrthoFinder)** – ⭐ 786 – Phylogenetic orthology inference for comparative genomics
@@ -38,7 +38,7 @@
 - **[OpenChemistry/avogadrolibs](https://github.com/OpenChemistry/avogadrolibs)** – ⭐ 539 – Avogadro libraries provide 3D rendering, visualization, analysis and data processing useful in computational chemistry, molecular modeling, bioinformatics, materials science, and related areas.
 - **[oschwengers/bakta](https://github.com/oschwengers/bakta)** – ⭐ 538 – Rapid & standardized annotation of bacterial genomes, MAGs & plasmids
 - **[jorvis/biocode](https://github.com/jorvis/biocode)** – ⭐ 536 – Bioinformatics code libraries and scripts
-- **[Ecogenomics/GTDBTk](https://github.com/Ecogenomics/GTDBTk)** – ⭐ 534 – GTDB-Tk: a toolkit for assigning objective taxonomic classifications to bacterial and archaeal genomes.
+- **[Ecogenomics/GTDBTk](https://github.com/Ecogenomics/GTDBTk)** – ⭐ 535 – GTDB-Tk: a toolkit for assigning objective taxonomic classifications to bacterial and archaeal genomes.
 - **[sourmash-bio/sourmash](https://github.com/sourmash-bio/sourmash)** – ⭐ 513 – Quickly search, compare, and analyze genomic and metagenomic data sets.
 - **[lindenb/jvarkit](https://github.com/lindenb/jvarkit)** – ⭐ 505 – Java utilities for Bioinformatics
 - **[Ensembl/ensembl-vep](https://github.com/Ensembl/ensembl-vep)** – ⭐ 495 – The Ensembl Variant Effect Predictor predicts the functional effects of genomic variants
