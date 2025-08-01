@@ -18,8 +18,8 @@
 - **[kblin/ncbi-genome-download](https://github.com/kblin/ncbi-genome-download)** – ⭐ 1024 – Scripts to download genomes from the NCBI FTP servers
 - **[hail-is/hail](https://github.com/hail-is/hail)** – ⭐ 1018 – Cloud-native genomic dataframes and batch computing
 - **[cmdcolin/awesome-genome-visualization](https://github.com/cmdcolin/awesome-genome-visualization)** – ⭐ 987 – A list of interesting genome browser and genome visualization programs
-- **[marbl/CHM13](https://github.com/marbl/CHM13)** – ⭐ 972 – The complete sequence of a human genome
-- **[scikit-bio/scikit-bio](https://github.com/scikit-bio/scikit-bio)** – ⭐ 954 – scikit-bio: a community-driven Python library for bioinformatics, providing versatile data structures, algorithms and educational resources.
+- **[marbl/CHM13](https://github.com/marbl/CHM13)** – ⭐ 973 – The complete sequence of a human genome
+- **[scikit-bio/scikit-bio](https://github.com/scikit-bio/scikit-bio)** – ⭐ 955 – scikit-bio: a community-driven Python library for bioinformatics, providing versatile data structures, algorithms and educational resources.
 - **[ablab/spades](https://github.com/ablab/spades)** – ⭐ 853 – SPAdes Genome Assembler
 - **[pysam-developers/pysam](https://github.com/pysam-developers/pysam)** – ⭐ 842 – Pysam is a Python package for reading, manipulating, and writing genomics data such as SAM/BAM/CRAM and VCF/BCF files. It's a lightweight wrapper of the HTSlib API, the same one that powers samtools, bcftools, and tabix.
 - **[tanghaibao/jcvi](https://github.com/tanghaibao/jcvi)** – ⭐ 839 – Python library to facilitate genome assembly, annotation, and comparative genomics
