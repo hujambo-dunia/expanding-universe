@@ -3,11 +3,11 @@
 **Showing 77 projects matching the criteria (250+ stars, recent updates)**
 
 - **[deepchem/deepchem](https://github.com/deepchem/deepchem)** – ⭐ 6126 – Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology
-- **[ArcInstitute/evo2](https://github.com/ArcInstitute/evo2)** – ⭐ 2990 – Genome modeling and design across all domains of life
+- **[ArcInstitute/evo2](https://github.com/ArcInstitute/evo2)** – ⭐ 2991 – Genome modeling and design across all domains of life
 - **[satijalab/seurat](https://github.com/satijalab/seurat)** – ⭐ 2478 – R toolkit for single cell genomics
 - **[lh3/minimap2](https://github.com/lh3/minimap2)** – ⭐ 2005 – A versatile pairwise aligner for genomic and spliced nucleotide sequences
 - **[rust-bio/rust-bio](https://github.com/rust-bio/rust-bio)** – ⭐ 1719 – This library provides implementations of many algorithms and data structures that are useful for bioinformatics. All provided implementations are rigorously tested via continuous integration.
-- **[materialsproject/pymatgen](https://github.com/materialsproject/pymatgen)** – ⭐ 1691 – Python Materials Genomics (pymatgen) is a robust materials analysis code that defines classes for structures and molecules with support for many electronic structure codes. It powers the Materials Project.
+- **[materialsproject/pymatgen](https://github.com/materialsproject/pymatgen)** – ⭐ 1692 – Python Materials Genomics (pymatgen) is a robust materials analysis code that defines classes for structures and molecules with support for many electronic structure codes. It powers the Materials Project.
 - **[duerrsimon/bioicons](https://github.com/duerrsimon/bioicons)** – ⭐ 1504 – A library of free open source icons for science illustrations in biology and chemistry
 - **[MultiQC/MultiQC](https://github.com/MultiQC/MultiQC)** – ⭐ 1334 – Aggregate results from bioinformatics analyses across many samples into a single report.
 - **[vgteam/vg](https://github.com/vgteam/vg)** – ⭐ 1220 – tools for working with genome variation graphs
@@ -17,7 +17,7 @@
 - **[bigdatagenomics/adam](https://github.com/bigdatagenomics/adam)** – ⭐ 1028 – ADAM is a genomics analysis platform with specialized file formats built using Apache Avro, Apache Spark, and Apache Parquet. Apache 2 licensed.
 - **[kblin/ncbi-genome-download](https://github.com/kblin/ncbi-genome-download)** – ⭐ 1023 – Scripts to download genomes from the NCBI FTP servers
 - **[hail-is/hail](https://github.com/hail-is/hail)** – ⭐ 1018 – Cloud-native genomic dataframes and batch computing
-- **[cmdcolin/awesome-genome-visualization](https://github.com/cmdcolin/awesome-genome-visualization)** – ⭐ 986 – A list of interesting genome browser and genome visualization programs
+- **[cmdcolin/awesome-genome-visualization](https://github.com/cmdcolin/awesome-genome-visualization)** – ⭐ 987 – A list of interesting genome browser and genome visualization programs
 - **[marbl/CHM13](https://github.com/marbl/CHM13)** – ⭐ 972 – The complete sequence of a human genome
 - **[scikit-bio/scikit-bio](https://github.com/scikit-bio/scikit-bio)** – ⭐ 954 – scikit-bio: a community-driven Python library for bioinformatics, providing versatile data structures, algorithms and educational resources.
 - **[ablab/spades](https://github.com/ablab/spades)** – ⭐ 853 – SPAdes Genome Assembler
