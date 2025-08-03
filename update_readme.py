@@ -1,4 +1,3 @@
-
 import os, requests, datetime, json
 
 # GitHub search API URL with query
@@ -47,6 +46,9 @@ with open("README.md", "w") as f:
 
 # Update STATS.md with new row
 stats_row = f"| {date_today} | {stars_aggregate} | {query} |\n"
-with open("STATS.md", "a") as f:
-    f.write(stats_row)
-  
+try:
+    with open("STATS.md", "a", encoding="utf-8") as f:
+        f.write(stats_row)
+        print("Write succeeded")
+except Exception as e:
+    print("Write failed:", e)
