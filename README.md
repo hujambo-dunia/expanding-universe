@@ -1,6 +1,6 @@
-## Trending Bioinformatics Repositories (Updated: 2025-08-03)
+## Trending Bioinformatics Repositories (Updated: 2025-08-04)
 
-**Showing 61 projects matching the criteria (250+ stars, recent updates)**
+**Showing 60 projects matching the criteria (250+ stars, recent updates)**
 
 - **[deepchem/deepchem](https://github.com/deepchem/deepchem)** – ⭐ 6133 – Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology
 - **[ArcInstitute/evo2](https://github.com/ArcInstitute/evo2)** – ⭐ 2996 – Genome modeling and design across all domains of life
@@ -14,7 +14,7 @@
 - **[pachterlab/gget](https://github.com/pachterlab/gget)** – ⭐ 1045 – 🧬 gget enables efficient querying of genomic reference databases
 - **[sib-swiss/training-collection](https://github.com/sib-swiss/training-collection)** – ⭐ 1041 – Collection of bioinformatics training materials
 - **[bigdatagenomics/adam](https://github.com/bigdatagenomics/adam)** – ⭐ 1028 – ADAM is a genomics analysis platform with specialized file formats built using Apache Avro, Apache Spark, and Apache Parquet. Apache 2 licensed.
-- **[kblin/ncbi-genome-download](https://github.com/kblin/ncbi-genome-download)** – ⭐ 1024 – Scripts to download genomes from the NCBI FTP servers
+- **[kblin/ncbi-genome-download](https://github.com/kblin/ncbi-genome-download)** – ⭐ 1023 – Scripts to download genomes from the NCBI FTP servers
 - **[hail-is/hail](https://github.com/hail-is/hail)** – ⭐ 1018 – Cloud-native genomic dataframes and batch computing
 - **[cmdcolin/awesome-genome-visualization](https://github.com/cmdcolin/awesome-genome-visualization)** – ⭐ 987 – A list of interesting genome browser and genome visualization programs
 - **[marbl/CHM13](https://github.com/marbl/CHM13)** – ⭐ 973 – The complete sequence of a human genome
@@ -22,7 +22,7 @@
 - **[ablab/spades](https://github.com/ablab/spades)** – ⭐ 853 – SPAdes Genome Assembler
 - **[tanghaibao/jcvi](https://github.com/tanghaibao/jcvi)** – ⭐ 841 – Python library to facilitate genome assembly, annotation, and comparative genomics
 - **[biotite-dev/biotite](https://github.com/biotite-dev/biotite)** – ⭐ 835 – A comprehensive library for computational molecular biology
-- **[cBioPortal/cbioportal](https://github.com/cBioPortal/cbioportal)** – ⭐ 830 – cBioPortal for Cancer Genomics
+- **[cBioPortal/cbioportal](https://github.com/cBioPortal/cbioportal)** – ⭐ 831 – cBioPortal for Cancer Genomics
 - **[davidemms/OrthoFinder](https://github.com/davidemms/OrthoFinder)** – ⭐ 786 – Phylogenetic orthology inference for comparative genomics
 - **[igvteam/igv](https://github.com/igvteam/igv)** – ⭐ 691 – Integrative Genomics Viewer. Fast, efficient, scalable visualization tool for genomics data and annotations
 - **[thackl/gggenomes](https://github.com/thackl/gggenomes)** – ⭐ 689 – A grammar of graphics for comparative genomics
@@ -57,7 +57,6 @@
 - **[GenerTeam/GENERanno](https://github.com/GenerTeam/GENERanno)** – ⭐ 301 – GENERanno: A Genomic Foundation Model for Metagenomic Annotation
 - **[WrightonLabCSU/DRAM](https://github.com/WrightonLabCSU/DRAM)** – ⭐ 290 – Distilled and Refined Annotation of Metabolism: A tool for the annotation and curation of function for microbial and viral genomes
 - **[evanpeikon/Bioinformatics_Toolkit](https://github.com/evanpeikon/Bioinformatics_Toolkit)** – ⭐ 289 – A growing collection of bioinformatics tutorials, project guides, tools, and articles I’ve developed to make bioinformatics more accessible.
-- **[wurmlab/sequenceserver](https://github.com/wurmlab/sequenceserver)** – ⭐ 286 – Intuitive graphical web interface for running BLAST bioinformatics tool (i.e. have your own custom NCBI BLAST site!)
 - **[projectglow/glow](https://github.com/projectglow/glow)** – ⭐ 285 – An open-source toolkit for large-scale genomic analysis
 - **[labgem/PPanGGOLiN](https://github.com/labgem/PPanGGOLiN)** – ⭐ 274 – Build a partitioned pangenome graph from microbial genomes
 - **[KamilSJaron/smudgeplot](https://github.com/KamilSJaron/smudgeplot)** – ⭐ 274 – Inference of ploidy and heterozygosity structure using whole genome sequencing data
