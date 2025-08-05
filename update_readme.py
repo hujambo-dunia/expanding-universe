@@ -5,7 +5,6 @@ api_url = "https://api.github.com/search/repositories"
 stars_min = 250
 date_today = datetime.date.today().strftime("%Y-%m-%d")
 date_recent_commits = (datetime.date.today() - datetime.timedelta(days=30)).strftime("%Y-%m-%d")
-stars_aggregate = 0
 query = f"(biology OR bioinformatics OR genome OR genomic) in:description stars:>{stars_min} pushed:>={date_recent_commits}"
 params = {
     "q": query,
@@ -34,7 +33,6 @@ md_lines.append(f"**Showing {len(filtered)} projects matching the criteria ({sta
 for repo in filtered:
     name = repo["full_name"]        # e.g. owner/name
     stars = repo["stargazers_count"]
-    stars_aggregate += stars
     description = (repo["description"] or "").strip()
     url = repo["html_url"]
     md_lines.append(f"- **[{name}]({url})** – ⭐ {stars} – {description}")
@@ -45,7 +43,7 @@ with open("README.md", "w") as f:
     f.write(readme_text)
 
 # Update STATS.md with new row
-stats_row = f"| {date_today} | {stars_aggregate} | {query} |\n"
+stats_row = f"| {date_today} | {len(filtered)} | {query} |\n"
 try:
     # Read existing STATS.md content
     with open("STATS.md", "r", encoding="utf-8") as f2:
