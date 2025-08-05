@@ -47,8 +47,13 @@ with open("README.md", "w") as f:
 # Update STATS.md with new row
 stats_row = f"| {date_today} | {stars_aggregate} | {query} |\n"
 try:
-    with open("STATS.md", "a", encoding="utf-8") as f2:
-        f2.write(stats_row)
+    # Read existing STATS.md content
+    with open("STATS.md", "r", encoding="utf-8") as f2:
+        existing_stats = f2.read()
+    
+    # Write back with new row appended
+    with open("STATS.md", "w", encoding="utf-8") as f2:
+        f2.write(existing_stats + stats_row)
         print("Write succeeded to STATS.md")
 except Exception as e:
     print("Write failed to STATS.md:", e)
