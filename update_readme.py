@@ -39,17 +39,16 @@ for repo in filtered:
     url = repo["html_url"]
     md_lines.append(f"- **[{name}]({url})** – ⭐ {stars} – {description}")
 
+# Write to README.md
+readme_text = "\n".join(md_lines) + "\n"
+with open("README.md", "w") as f:
+    f.write(readme_text)
+
 # Update STATS.md with new row
-stats_row = f"| 0000-00-00 | 1 | some query |\n"
-# stats_row = f"| {date_today} | {stars_aggregate} | {query} |\n"
+stats_row = f"| {date_today} | {stars_aggregate} | {query} |\n"
 try:
     with open("STATS.md", "a", encoding="utf-8") as f2:
         f2.write(stats_row)
         print("Write succeeded to STATS.md")
 except Exception as e:
     print("Write failed to STATS.md:", e)
-
-# Write to README.md
-readme_text = "\n".join(md_lines) + "\n"
-with open("README.md", "w") as f:
-    f.write(readme_text)
