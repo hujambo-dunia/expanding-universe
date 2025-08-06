@@ -3,7 +3,7 @@
 **Showing 60 projects matching the criteria (250+ stars, recent updates)**
 
 - **[deepchem/deepchem](https://github.com/deepchem/deepchem)** – ⭐ 6137 – Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology
-- **[ArcInstitute/evo2](https://github.com/ArcInstitute/evo2)** – ⭐ 3005 – Genome modeling and design across all domains of life
+- **[ArcInstitute/evo2](https://github.com/ArcInstitute/evo2)** – ⭐ 3006 – Genome modeling and design across all domains of life
 - **[satijalab/seurat](https://github.com/satijalab/seurat)** – ⭐ 2482 – R toolkit for single cell genomics
 - **[rust-bio/rust-bio](https://github.com/rust-bio/rust-bio)** – ⭐ 1720 – This library provides implementations of many algorithms and data structures that are useful for bioinformatics. All provided implementations are rigorously tested via continuous integration.
 - **[materialsproject/pymatgen](https://github.com/materialsproject/pymatgen)** – ⭐ 1697 – Python Materials Genomics (pymatgen) is a robust materials analysis code that defines classes for structures and molecules with support for many electronic structure codes. It powers the Materials Project.
@@ -21,7 +21,7 @@
 - **[scikit-bio/scikit-bio](https://github.com/scikit-bio/scikit-bio)** – ⭐ 957 – scikit-bio: a community-driven Python library for bioinformatics, providing versatile data structures, algorithms and educational resources.
 - **[ablab/spades](https://github.com/ablab/spades)** – ⭐ 856 – SPAdes Genome Assembler
 - **[tanghaibao/jcvi](https://github.com/tanghaibao/jcvi)** – ⭐ 841 – Python library to facilitate genome assembly, annotation, and comparative genomics
-- **[biotite-dev/biotite](https://github.com/biotite-dev/biotite)** – ⭐ 835 – A comprehensive library for computational molecular biology
+- **[biotite-dev/biotite](https://github.com/biotite-dev/biotite)** – ⭐ 834 – A comprehensive library for computational molecular biology
 - **[cBioPortal/cbioportal](https://github.com/cBioPortal/cbioportal)** – ⭐ 833 – cBioPortal for Cancer Genomics
 - **[davidemms/OrthoFinder](https://github.com/davidemms/OrthoFinder)** – ⭐ 788 – Phylogenetic orthology inference for comparative genomics
 - **[shenwei356/awesome](https://github.com/shenwei356/awesome)** – ⭐ 695 – Awesome resources on Bioinformatics, data science, machine learning, programming language (Python, Golang, R, Perl) and miscellaneous stuff.
@@ -32,7 +32,7 @@
 - **[jerryji1993/DNABERT](https://github.com/jerryji1993/DNABERT)** – ⭐ 681 – DNABERT: pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome
 - **[instadeepai/nucleotide-transformer](https://github.com/instadeepai/nucleotide-transformer)** – ⭐ 672 – Foundation Models for Genomics & Transcriptomics
 - **[zaeleus/noodles](https://github.com/zaeleus/noodles)** – ⭐ 604 – Bioinformatics I/O libraries in Rust
-- **[ComparativeGenomicsToolkit/cactus](https://github.com/ComparativeGenomicsToolkit/cactus)** – ⭐ 594 – Official home of genome aligner based upon notion of Cactus graphs
+- **[ComparativeGenomicsToolkit/cactus](https://github.com/ComparativeGenomicsToolkit/cactus)** – ⭐ 595 – Official home of genome aligner based upon notion of Cactus graphs
 - **[OpenChemistry/avogadrolibs](https://github.com/OpenChemistry/avogadrolibs)** – ⭐ 544 – Avogadro libraries provide 3D rendering, visualization, analysis and data processing useful in computational chemistry, molecular modeling, bioinformatics, materials science, and related areas.
 - **[jorvis/biocode](https://github.com/jorvis/biocode)** – ⭐ 537 – Bioinformatics code libraries and scripts
 - **[Ecogenomics/GTDBTk](https://github.com/Ecogenomics/GTDBTk)** – ⭐ 535 – GTDB-Tk: a toolkit for assigning objective taxonomic classifications to bacterial and archaeal genomes.
@@ -47,7 +47,7 @@
 - **[openproblems-bio/openproblems](https://github.com/openproblems-bio/openproblems)** – ⭐ 378 – Formalizing and benchmarking open problems in single-cell genomics
 - **[lh3/miniprot](https://github.com/lh3/miniprot)** – ⭐ 378 – Align proteins to genomes with splicing and frameshift
 - **[kcleal/gw](https://github.com/kcleal/gw)** – ⭐ 369 – Genome browser and variant annotation
-- **[ncbi/pgap](https://github.com/ncbi/pgap)** – ⭐ 346 – NCBI Prokaryotic Genome Annotation Pipeline
+- **[ncbi/pgap](https://github.com/ncbi/pgap)** – ⭐ 347 – NCBI Prokaryotic Genome Annotation Pipeline
 - **[ebi-pf-team/interproscan](https://github.com/ebi-pf-team/interproscan)** – ⭐ 338 – Genome-scale protein function classification
 - **[fulcrumgenomics/fgbio](https://github.com/fulcrumgenomics/fgbio)** – ⭐ 338 – Tools for working with genomic and high throughput sequencing data.
 - **[higlass/higlass](https://github.com/higlass/higlass)** – ⭐ 329 – Fast, flexible and extensible genome browser.
