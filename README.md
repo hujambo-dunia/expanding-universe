@@ -1,11 +1,11 @@
-## Trending Bioinformatics Repositories (Updated: 2025-08-05)
+## Trending Bioinformatics Repositories (Updated: 2025-08-06)
 
-**Showing 60 projects matching the criteria (250+ stars, recent updates)**
+**Showing 59 projects matching the criteria (250+ stars, recent updates)**
 
 - **[deepchem/deepchem](https://github.com/deepchem/deepchem)** – ⭐ 6137 – Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology
-- **[ArcInstitute/evo2](https://github.com/ArcInstitute/evo2)** – ⭐ 3003 – Genome modeling and design across all domains of life
-- **[satijalab/seurat](https://github.com/satijalab/seurat)** – ⭐ 2481 – R toolkit for single cell genomics
-- **[rust-bio/rust-bio](https://github.com/rust-bio/rust-bio)** – ⭐ 1719 – This library provides implementations of many algorithms and data structures that are useful for bioinformatics. All provided implementations are rigorously tested via continuous integration.
+- **[ArcInstitute/evo2](https://github.com/ArcInstitute/evo2)** – ⭐ 3004 – Genome modeling and design across all domains of life
+- **[satijalab/seurat](https://github.com/satijalab/seurat)** – ⭐ 2482 – R toolkit for single cell genomics
+- **[rust-bio/rust-bio](https://github.com/rust-bio/rust-bio)** – ⭐ 1720 – This library provides implementations of many algorithms and data structures that are useful for bioinformatics. All provided implementations are rigorously tested via continuous integration.
 - **[materialsproject/pymatgen](https://github.com/materialsproject/pymatgen)** – ⭐ 1697 – Python Materials Genomics (pymatgen) is a robust materials analysis code that defines classes for structures and molecules with support for many electronic structure codes. It powers the Materials Project.
 - **[duerrsimon/bioicons](https://github.com/duerrsimon/bioicons)** – ⭐ 1504 – A library of free open source icons for science illustrations in biology and chemistry
 - **[MultiQC/MultiQC](https://github.com/MultiQC/MultiQC)** – ⭐ 1338 – Aggregate results from bioinformatics analyses across many samples into a single report.
@@ -46,7 +46,6 @@
 - **[openproblems-bio/openproblems](https://github.com/openproblems-bio/openproblems)** – ⭐ 378 – Formalizing and benchmarking open problems in single-cell genomics
 - **[lh3/miniprot](https://github.com/lh3/miniprot)** – ⭐ 378 – Align proteins to genomes with splicing and frameshift
 - **[kcleal/gw](https://github.com/kcleal/gw)** – ⭐ 368 – Genome browser and variant annotation
-- **[nextgenusfs/funannotate](https://github.com/nextgenusfs/funannotate)** – ⭐ 359 – Eukaryotic Genome Annotation Pipeline
 - **[ncbi/pgap](https://github.com/ncbi/pgap)** – ⭐ 346 – NCBI Prokaryotic Genome Annotation Pipeline
 - **[ebi-pf-team/interproscan](https://github.com/ebi-pf-team/interproscan)** – ⭐ 338 – Genome-scale protein function classification
 - **[fulcrumgenomics/fgbio](https://github.com/fulcrumgenomics/fgbio)** – ⭐ 338 – Tools for working with genomic and high throughput sequencing data.
