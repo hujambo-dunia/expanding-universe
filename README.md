@@ -11,7 +11,7 @@
 - **[MultiQC/MultiQC](https://github.com/MultiQC/MultiQC)** – ⭐ 1338 – Aggregate results from bioinformatics analyses across many samples into a single report.
 - **[vgteam/vg](https://github.com/vgteam/vg)** – ⭐ 1220 – tools for working with genome variation graphs
 - **[thieu1995/mealpy](https://github.com/thieu1995/mealpy)** – ⭐ 1067 – A Collection Of The State-of-the-art Metaheuristic Algorithms In Python (Metaheuristic/Optimizer/Nature-inspired/Biology)
-- **[sib-swiss/training-collection](https://github.com/sib-swiss/training-collection)** – ⭐ 1045 – Collection of bioinformatics training materials
+- **[sib-swiss/training-collection](https://github.com/sib-swiss/training-collection)** – ⭐ 1046 – Collection of bioinformatics training materials
 - **[pachterlab/gget](https://github.com/pachterlab/gget)** – ⭐ 1044 – 🧬 gget enables efficient querying of genomic reference databases
 - **[bigdatagenomics/adam](https://github.com/bigdatagenomics/adam)** – ⭐ 1027 – ADAM is a genomics analysis platform with specialized file formats built using Apache Avro, Apache Spark, and Apache Parquet. Apache 2 licensed.
 - **[kblin/ncbi-genome-download](https://github.com/kblin/ncbi-genome-download)** – ⭐ 1023 – Scripts to download genomes from the NCBI FTP servers
@@ -57,7 +57,7 @@
 - **[GenerTeam/GENERanno](https://github.com/GenerTeam/GENERanno)** – ⭐ 301 – GENERanno: A Genomic Foundation Model for Metagenomic Annotation
 - **[evanpeikon/Bioinformatics_Toolkit](https://github.com/evanpeikon/Bioinformatics_Toolkit)** – ⭐ 290 – A growing collection of bioinformatics tutorials, project guides, tools, and articles I’ve developed to make bioinformatics more accessible.
 - **[WrightonLabCSU/DRAM](https://github.com/WrightonLabCSU/DRAM)** – ⭐ 289 – Distilled and Refined Annotation of Metabolism: A tool for the annotation and curation of function for microbial and viral genomes
-- **[projectglow/glow](https://github.com/projectglow/glow)** – ⭐ 285 – An open-source toolkit for large-scale genomic analysis
+- **[projectglow/glow](https://github.com/projectglow/glow)** – ⭐ 286 – An open-source toolkit for large-scale genomic analysis
 - **[labgem/PPanGGOLiN](https://github.com/labgem/PPanGGOLiN)** – ⭐ 275 – Build a partitioned pangenome graph from microbial genomes
 - **[KamilSJaron/smudgeplot](https://github.com/KamilSJaron/smudgeplot)** – ⭐ 274 – Inference of ploidy and heterozygosity structure using whole genome sequencing data
 - **[songlab-cal/gpn](https://github.com/songlab-cal/gpn)** – ⭐ 273 – Genomic Pre-trained Network
