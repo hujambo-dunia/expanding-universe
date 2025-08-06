@@ -12,7 +12,7 @@
 - **[vgteam/vg](https://github.com/vgteam/vg)** – ⭐ 1220 – tools for working with genome variation graphs
 - **[thieu1995/mealpy](https://github.com/thieu1995/mealpy)** – ⭐ 1067 – A Collection Of The State-of-the-art Metaheuristic Algorithms In Python (Metaheuristic/Optimizer/Nature-inspired/Biology)
 - **[sib-swiss/training-collection](https://github.com/sib-swiss/training-collection)** – ⭐ 1046 – Collection of bioinformatics training materials
-- **[pachterlab/gget](https://github.com/pachterlab/gget)** – ⭐ 1044 – 🧬 gget enables efficient querying of genomic reference databases
+- **[pachterlab/gget](https://github.com/pachterlab/gget)** – ⭐ 1045 – 🧬 gget enables efficient querying of genomic reference databases
 - **[bigdatagenomics/adam](https://github.com/bigdatagenomics/adam)** – ⭐ 1027 – ADAM is a genomics analysis platform with specialized file formats built using Apache Avro, Apache Spark, and Apache Parquet. Apache 2 licensed.
 - **[kblin/ncbi-genome-download](https://github.com/kblin/ncbi-genome-download)** – ⭐ 1023 – Scripts to download genomes from the NCBI FTP servers
 - **[hail-is/hail](https://github.com/hail-is/hail)** – ⭐ 1018 – Cloud-native genomic dataframes and batch computing
@@ -26,7 +26,7 @@
 - **[davidemms/OrthoFinder](https://github.com/davidemms/OrthoFinder)** – ⭐ 788 – Phylogenetic orthology inference for comparative genomics
 - **[shenwei356/awesome](https://github.com/shenwei356/awesome)** – ⭐ 695 – Awesome resources on Bioinformatics, data science, machine learning, programming language (Python, Golang, R, Perl) and miscellaneous stuff.
 - **[igvteam/igv](https://github.com/igvteam/igv)** – ⭐ 694 – Integrative Genomics Viewer. Fast, efficient, scalable visualization tool for genomics data and annotations
-- **[thackl/gggenomes](https://github.com/thackl/gggenomes)** – ⭐ 689 – A grammar of graphics for comparative genomics
+- **[thackl/gggenomes](https://github.com/thackl/gggenomes)** – ⭐ 690 – A grammar of graphics for comparative genomics
 - **[marbl/canu](https://github.com/marbl/canu)** – ⭐ 685 – A single molecule sequence assembler for genomes large and small.
 - **[igvteam/igv.js](https://github.com/igvteam/igv.js)** – ⭐ 683 – Embeddable genomic visualization component based on the Integrative Genomics Viewer
 - **[jerryji1993/DNABERT](https://github.com/jerryji1993/DNABERT)** – ⭐ 682 – DNABERT: pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome
@@ -39,14 +39,14 @@
 - **[sourmash-bio/sourmash](https://github.com/sourmash-bio/sourmash)** – ⭐ 515 – Quickly search, compare, and analyze genomic and metagenomic data sets.
 - **[lindenb/jvarkit](https://github.com/lindenb/jvarkit)** – ⭐ 507 – Java utilities for Bioinformatics
 - **[Ensembl/ensembl-vep](https://github.com/Ensembl/ensembl-vep)** – ⭐ 496 – The Ensembl Variant Effect Predictor predicts the functional effects of genomic variants
-- **[SciML/Catalyst.jl](https://github.com/SciML/Catalyst.jl)** – ⭐ 492 – Chemical reaction network and systems biology interface for scientific machine learning (SciML). High performance, GPU-parallelized, and O(1) solvers in open source software.
+- **[SciML/Catalyst.jl](https://github.com/SciML/Catalyst.jl)** – ⭐ 493 – Chemical reaction network and systems biology interface for scientific machine learning (SciML). High performance, GPU-parallelized, and O(1) solvers in open source software.
 - **[chrchang/plink-ng](https://github.com/chrchang/plink-ng)** – ⭐ 462 – PLINK is a free, open-source whole genome association analysis toolset, designed to perform a range of basic, large-scale analyses in a computationally efficient manner.  This is a comprehensive update to it.
 - **[GenerTeam/GENERator](https://github.com/GenerTeam/GENERator)** – ⭐ 429 – GENERator: A Long-Context Generative Genomic Foundation Model
 - **[ParBLiSS/FastANI](https://github.com/ParBLiSS/FastANI)** – ⭐ 422 – Fast Whole-Genome Similarity (ANI) Estimation
 - **[zeqianli/tgv](https://github.com/zeqianli/tgv)** – ⭐ 381 – Explore genomes in the terminal. Light, blazing fast 🚀, vim-motion.
 - **[openproblems-bio/openproblems](https://github.com/openproblems-bio/openproblems)** – ⭐ 378 – Formalizing and benchmarking open problems in single-cell genomics
 - **[lh3/miniprot](https://github.com/lh3/miniprot)** – ⭐ 378 – Align proteins to genomes with splicing and frameshift
-- **[kcleal/gw](https://github.com/kcleal/gw)** – ⭐ 369 – Genome browser and variant annotation
+- **[kcleal/gw](https://github.com/kcleal/gw)** – ⭐ 368 – Genome browser and variant annotation
 - **[ncbi/pgap](https://github.com/ncbi/pgap)** – ⭐ 348 – NCBI Prokaryotic Genome Annotation Pipeline
 - **[ebi-pf-team/interproscan](https://github.com/ebi-pf-team/interproscan)** – ⭐ 338 – Genome-scale protein function classification
 - **[fulcrumgenomics/fgbio](https://github.com/fulcrumgenomics/fgbio)** – ⭐ 338 – Tools for working with genomic and high throughput sequencing data.
