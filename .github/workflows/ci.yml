@@ -1,7 +1,7 @@
 name: Update Trending Bioinformatics Repos
 on:
   schedule:
-    - cron: '0 */2 * * *'   # runs every 2 hours (UTC)
+    - cron: '0 0 * * *'   # runs daily at midnight (UTC)
   workflow_dispatch:        # allow manual trigger if needed
 jobs:
   update-readme:
