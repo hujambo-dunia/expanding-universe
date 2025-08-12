@@ -1,33 +1,33 @@
-## Trending Bioinformatics Repositories (Updated: 2025-08-11)
+## Trending Bioinformatics Repositories (Updated: 2025-08-12)
 
-**Showing 56 projects matching the criteria (250+ stars, recent updates)**
+**Showing 57 projects matching the criteria (250+ stars, recent updates)**
 
-- **[deepchem/deepchem](https://github.com/deepchem/deepchem)** – ⭐ 6145 – Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology
-- **[ArcInstitute/evo2](https://github.com/ArcInstitute/evo2)** – ⭐ 3010 – Genome modeling and design across all domains of life
-- **[satijalab/seurat](https://github.com/satijalab/seurat)** – ⭐ 2484 – R toolkit for single cell genomics
-- **[materialsproject/pymatgen](https://github.com/materialsproject/pymatgen)** – ⭐ 1700 – Python Materials Genomics (pymatgen) is a robust materials analysis code that defines classes for structures and molecules with support for many electronic structure codes. It powers the Materials Project.
+- **[deepchem/deepchem](https://github.com/deepchem/deepchem)** – ⭐ 6149 – Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology
+- **[ArcInstitute/evo2](https://github.com/ArcInstitute/evo2)** – ⭐ 3011 – Genome modeling and design across all domains of life
+- **[satijalab/seurat](https://github.com/satijalab/seurat)** – ⭐ 2485 – R toolkit for single cell genomics
+- **[materialsproject/pymatgen](https://github.com/materialsproject/pymatgen)** – ⭐ 1701 – Python Materials Genomics (pymatgen) is a robust materials analysis code that defines classes for structures and molecules with support for many electronic structure codes. It powers the Materials Project.
 - **[duerrsimon/bioicons](https://github.com/duerrsimon/bioicons)** – ⭐ 1507 – A library of free open source icons for science illustrations in biology and chemistry
 - **[MultiQC/MultiQC](https://github.com/MultiQC/MultiQC)** – ⭐ 1340 – Aggregate results from bioinformatics analyses across many samples into a single report.
+- **[crazyhottommy/getting-started-with-genomics-tools-and-resources](https://github.com/crazyhottommy/getting-started-with-genomics-tools-and-resources)** – ⭐ 1301 – Unix, R and python tools for genomics and data science
 - **[vgteam/vg](https://github.com/vgteam/vg)** – ⭐ 1223 – tools for working with genome variation graphs
 - **[thieu1995/mealpy](https://github.com/thieu1995/mealpy)** – ⭐ 1067 – A Collection Of The State-of-the-art Metaheuristic Algorithms In Python (Metaheuristic/Optimizer/Nature-inspired/Biology)
 - **[sib-swiss/training-collection](https://github.com/sib-swiss/training-collection)** – ⭐ 1049 – Collection of bioinformatics training materials
 - **[pachterlab/gget](https://github.com/pachterlab/gget)** – ⭐ 1045 – 🧬 gget enables efficient querying of genomic reference databases
-- **[bigdatagenomics/adam](https://github.com/bigdatagenomics/adam)** – ⭐ 1029 – ADAM is a genomics analysis platform with specialized file formats built using Apache Avro, Apache Spark, and Apache Parquet. Apache 2 licensed.
 - **[kblin/ncbi-genome-download](https://github.com/kblin/ncbi-genome-download)** – ⭐ 1025 – Scripts to download genomes from the NCBI FTP servers
-- **[hail-is/hail](https://github.com/hail-is/hail)** – ⭐ 1020 – Cloud-native genomic dataframes and batch computing
+- **[hail-is/hail](https://github.com/hail-is/hail)** – ⭐ 1021 – Cloud-native genomic dataframes and batch computing
 - **[cmdcolin/awesome-genome-visualization](https://github.com/cmdcolin/awesome-genome-visualization)** – ⭐ 992 – A list of interesting genome browser and genome visualization programs
 - **[marbl/CHM13](https://github.com/marbl/CHM13)** – ⭐ 976 – The complete sequence of a human genome
-- **[scikit-bio/scikit-bio](https://github.com/scikit-bio/scikit-bio)** – ⭐ 958 – scikit-bio: a community-driven Python library for bioinformatics, providing versatile data structures, algorithms and educational resources.
+- **[scikit-bio/scikit-bio](https://github.com/scikit-bio/scikit-bio)** – ⭐ 959 – scikit-bio: a community-driven Python library for bioinformatics, providing versatile data structures, algorithms and educational resources.
 - **[ablab/spades](https://github.com/ablab/spades)** – ⭐ 857 – SPAdes Genome Assembler
 - **[tanghaibao/jcvi](https://github.com/tanghaibao/jcvi)** – ⭐ 843 – Python library to facilitate genome assembly, annotation, and comparative genomics
-- **[biotite-dev/biotite](https://github.com/biotite-dev/biotite)** – ⭐ 837 – A comprehensive library for computational molecular biology
-- **[cBioPortal/cbioportal](https://github.com/cBioPortal/cbioportal)** – ⭐ 835 – cBioPortal for Cancer Genomics
+- **[biotite-dev/biotite](https://github.com/biotite-dev/biotite)** – ⭐ 839 – A comprehensive library for computational molecular biology
+- **[cBioPortal/cbioportal](https://github.com/cBioPortal/cbioportal)** – ⭐ 836 – cBioPortal for Cancer Genomics
 - **[davidemms/OrthoFinder](https://github.com/davidemms/OrthoFinder)** – ⭐ 788 – Phylogenetic orthology inference for comparative genomics
 - **[shenwei356/awesome](https://github.com/shenwei356/awesome)** – ⭐ 695 – Awesome resources on Bioinformatics, data science, machine learning, programming language (Python, Golang, R, Perl) and miscellaneous stuff.
 - **[igvteam/igv](https://github.com/igvteam/igv)** – ⭐ 694 – Integrative Genomics Viewer. Fast, efficient, scalable visualization tool for genomics data and annotations
 - **[marbl/canu](https://github.com/marbl/canu)** – ⭐ 685 – A single molecule sequence assembler for genomes large and small.
 - **[igvteam/igv.js](https://github.com/igvteam/igv.js)** – ⭐ 683 – Embeddable genomic visualization component based on the Integrative Genomics Viewer
-- **[zaeleus/noodles](https://github.com/zaeleus/noodles)** – ⭐ 605 – Bioinformatics I/O libraries in Rust
+- **[zaeleus/noodles](https://github.com/zaeleus/noodles)** – ⭐ 606 – Bioinformatics I/O libraries in Rust
 - **[ComparativeGenomicsToolkit/cactus](https://github.com/ComparativeGenomicsToolkit/cactus)** – ⭐ 596 – Official home of genome aligner based upon notion of Cactus graphs
 - **[OpenChemistry/avogadrolibs](https://github.com/OpenChemistry/avogadrolibs)** – ⭐ 545 – Avogadro libraries provide 3D rendering, visualization, analysis and data processing useful in computational chemistry, molecular modeling, bioinformatics, materials science, and related areas.
 - **[jorvis/biocode](https://github.com/jorvis/biocode)** – ⭐ 540 – Bioinformatics code libraries and scripts
@@ -38,12 +38,12 @@
 - **[SciML/Catalyst.jl](https://github.com/SciML/Catalyst.jl)** – ⭐ 493 – Chemical reaction network and systems biology interface for scientific machine learning (SciML). High performance, GPU-parallelized, and O(1) solvers in open source software.
 - **[chrchang/plink-ng](https://github.com/chrchang/plink-ng)** – ⭐ 462 – PLINK is a free, open-source whole genome association analysis toolset, designed to perform a range of basic, large-scale analyses in a computationally efficient manner.  This is a comprehensive update to it.
 - **[GenerTeam/GENERator](https://github.com/GenerTeam/GENERator)** – ⭐ 430 – GENERator: A Long-Context Generative Genomic Foundation Model
-- **[ParBLiSS/FastANI](https://github.com/ParBLiSS/FastANI)** – ⭐ 423 – Fast Whole-Genome Similarity (ANI) Estimation
-- **[zeqianli/tgv](https://github.com/zeqianli/tgv)** – ⭐ 383 – Explore genomes in the terminal. Light, blazing fast 🚀, vim-motion.
-- **[openproblems-bio/openproblems](https://github.com/openproblems-bio/openproblems)** – ⭐ 379 – Formalizing and benchmarking open problems in single-cell genomics
+- **[ParBLiSS/FastANI](https://github.com/ParBLiSS/FastANI)** – ⭐ 426 – Fast Whole-Genome Similarity (ANI) Estimation
+- **[zeqianli/tgv](https://github.com/zeqianli/tgv)** – ⭐ 384 – Explore genomes in the terminal. Light, blazing fast 🚀, vim-motion.
+- **[openproblems-bio/openproblems](https://github.com/openproblems-bio/openproblems)** – ⭐ 380 – Formalizing and benchmarking open problems in single-cell genomics
 - **[theislab/scarches](https://github.com/theislab/scarches)** – ⭐ 377 – Reference mapping for single-cell genomics
 - **[kcleal/gw](https://github.com/kcleal/gw)** – ⭐ 368 – Genome browser and variant annotation
-- **[ncbi/pgap](https://github.com/ncbi/pgap)** – ⭐ 348 – NCBI Prokaryotic Genome Annotation Pipeline
+- **[ncbi/pgap](https://github.com/ncbi/pgap)** – ⭐ 349 – NCBI Prokaryotic Genome Annotation Pipeline
 - **[fulcrumgenomics/fgbio](https://github.com/fulcrumgenomics/fgbio)** – ⭐ 339 – Tools for working with genomic and high throughput sequencing data.
 - **[ebi-pf-team/interproscan](https://github.com/ebi-pf-team/interproscan)** – ⭐ 338 – Genome-scale protein function classification
 - **[higlass/higlass](https://github.com/higlass/higlass)** – ⭐ 329 – Fast, flexible and extensible genome browser.
@@ -57,4 +57,5 @@
 - **[labgem/PPanGGOLiN](https://github.com/labgem/PPanGGOLiN)** – ⭐ 275 – Build a partitioned pangenome graph from microbial genomes
 - **[KamilSJaron/smudgeplot](https://github.com/KamilSJaron/smudgeplot)** – ⭐ 274 – Inference of ploidy and heterozygosity structure using whole genome sequencing data
 - **[songlab-cal/gpn](https://github.com/songlab-cal/gpn)** – ⭐ 273 – Genomic Pre-trained Network
+- **[mothur/mothur](https://github.com/mothur/mothur)** – ⭐ 272 – Welcome to the mothur project, initiated by Dr. Patrick Schloss and his software development team in the Department of Microbiology & Immunology at The University of Michigan. This project seeks to develop a single piece of open-source, expandable software to fill the bioinformatics needs of the microbial ecology community.
 - **[sigven/pcgr](https://github.com/sigven/pcgr)** – ⭐ 268 – Personal Cancer Genome Reporter (PCGR)
