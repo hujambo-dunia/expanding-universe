@@ -1,14 +1,14 @@
-## Trending Bioinformatics Repositories (Updated: 2025-09-27)
+## Trending Bioinformatics Repositories (Updated: 2025-09-28)
 
 **Showing 59 projects matching the criteria (250+ stars, recent updates)**
 
-- **[deepchem/deepchem](https://github.com/deepchem/deepchem)** – ⭐ 6226 – Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology
-- **[ArcInstitute/evo2](https://github.com/ArcInstitute/evo2)** – ⭐ 3105 – Genome modeling and design across all domains of life
-- **[satijalab/seurat](https://github.com/satijalab/seurat)** – ⭐ 2525 – R toolkit for single cell genomics
+- **[deepchem/deepchem](https://github.com/deepchem/deepchem)** – ⭐ 6227 – Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology
+- **[ArcInstitute/evo2](https://github.com/ArcInstitute/evo2)** – ⭐ 3109 – Genome modeling and design across all domains of life
+- **[satijalab/seurat](https://github.com/satijalab/seurat)** – ⭐ 2527 – R toolkit for single cell genomics
 - **[lh3/minimap2](https://github.com/lh3/minimap2)** – ⭐ 2040 – A versatile pairwise aligner for genomic and spliced nucleotide sequences
 - **[rust-bio/rust-bio](https://github.com/rust-bio/rust-bio)** – ⭐ 1741 – This library provides implementations of many algorithms and data structures that are useful for bioinformatics. All provided implementations are rigorously tested via continuous integration.
-- **[materialsproject/pymatgen](https://github.com/materialsproject/pymatgen)** – ⭐ 1725 – Python Materials Genomics (pymatgen) is a robust materials analysis code that defines classes for structures and molecules with support for many electronic structure codes. It powers the Materials Project.
-- **[duerrsimon/bioicons](https://github.com/duerrsimon/bioicons)** – ⭐ 1534 – A library of free open source icons for science illustrations in biology and chemistry
+- **[materialsproject/pymatgen](https://github.com/materialsproject/pymatgen)** – ⭐ 1726 – Python Materials Genomics (pymatgen) is a robust materials analysis code that defines classes for structures and molecules with support for many electronic structure codes. It powers the Materials Project.
+- **[duerrsimon/bioicons](https://github.com/duerrsimon/bioicons)** – ⭐ 1535 – A library of free open source icons for science illustrations in biology and chemistry
 - **[evo-design/evo](https://github.com/evo-design/evo)** – ⭐ 1419 – Biological foundation modeling from molecular to genome scale
 - **[MultiQC/MultiQC](https://github.com/MultiQC/MultiQC)** – ⭐ 1358 – Aggregate results from bioinformatics analyses across many samples into a single report.
 - **[vgteam/vg](https://github.com/vgteam/vg)** – ⭐ 1241 – tools for working with genome variation graphs
@@ -27,11 +27,11 @@
 - **[marbl/canu](https://github.com/marbl/canu)** – ⭐ 691 – A single molecule sequence assembler for genomes large and small.
 - **[igvteam/igv.js](https://github.com/igvteam/igv.js)** – ⭐ 687 – Embeddable genomic visualization component based on the Integrative Genomics Viewer
 - **[zaeleus/noodles](https://github.com/zaeleus/noodles)** – ⭐ 617 – Bioinformatics I/O libraries in Rust
-- **[ComparativeGenomicsToolkit/cactus](https://github.com/ComparativeGenomicsToolkit/cactus)** – ⭐ 609 – Official home of genome aligner based upon notion of Cactus graphs
+- **[ComparativeGenomicsToolkit/cactus](https://github.com/ComparativeGenomicsToolkit/cactus)** – ⭐ 610 – Official home of genome aligner based upon notion of Cactus graphs
 - **[OpenChemistry/avogadrolibs](https://github.com/OpenChemistry/avogadrolibs)** – ⭐ 559 – Avogadro libraries provide 3D rendering, visualization, analysis and data processing useful in computational chemistry, molecular modeling, bioinformatics, materials science, and related areas.
 - **[oschwengers/bakta](https://github.com/oschwengers/bakta)** – ⭐ 552 – Rapid & standardized annotation of bacterial genomes, MAGs & plasmids
 - **[Ecogenomics/GTDBTk](https://github.com/Ecogenomics/GTDBTk)** – ⭐ 543 – GTDB-Tk: a toolkit for assigning objective taxonomic classifications to bacterial and archaeal genomes.
-- **[sourmash-bio/sourmash](https://github.com/sourmash-bio/sourmash)** – ⭐ 523 – Quickly search, compare, and analyze genomic and metagenomic data sets.
+- **[sourmash-bio/sourmash](https://github.com/sourmash-bio/sourmash)** – ⭐ 522 – Quickly search, compare, and analyze genomic and metagenomic data sets.
 - **[lindenb/jvarkit](https://github.com/lindenb/jvarkit)** – ⭐ 512 – Java utilities for Bioinformatics
 - **[Ensembl/ensembl-vep](https://github.com/Ensembl/ensembl-vep)** – ⭐ 505 – The Ensembl Variant Effect Predictor predicts the functional effects of genomic variants
 - **[SciML/Catalyst.jl](https://github.com/SciML/Catalyst.jl)** – ⭐ 494 – Chemical reaction network and systems biology interface for scientific machine learning (SciML). High performance, GPU-parallelized, and O(1) solvers in open source software.
