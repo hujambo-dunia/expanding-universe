@@ -78,3 +78,4 @@
 | 2025-10-19 | 57 | (biology OR bioinformatics OR genome OR genomic) in:description stars:>250 pushed:>=2025-09-19 |
 | 2025-10-20 | 55 | (biology OR bioinformatics OR genome OR genomic) in:description stars:>250 pushed:>=2025-09-20 |
 | 2025-10-21 | 55 | (biology OR bioinformatics OR genome OR genomic) in:description stars:>250 pushed:>=2025-09-21 |
+| 2025-10-22 | 55 | (biology OR bioinformatics OR genome OR genomic) in:description stars:>250 pushed:>=2025-09-22 |
