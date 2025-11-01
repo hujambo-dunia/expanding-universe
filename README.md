@@ -1,19 +1,19 @@
-## Trending Bioinformatics Repositories (Updated: 2025-10-31)
+## Trending Bioinformatics Repositories (Updated: 2025-11-01)
 
 **Showing 57 projects matching the criteria (250+ stars, recent updates)**
 
-- **[deepchem/deepchem](https://github.com/deepchem/deepchem)** – ⭐ 6292 – Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology
+- **[deepchem/deepchem](https://github.com/deepchem/deepchem)** – ⭐ 6297 – Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology
 - **[satijalab/seurat](https://github.com/satijalab/seurat)** – ⭐ 2553 – R toolkit for single cell genomics
 - **[lh3/minimap2](https://github.com/lh3/minimap2)** – ⭐ 2058 – A versatile pairwise aligner for genomic and spliced nucleotide sequences
-- **[materialsproject/pymatgen](https://github.com/materialsproject/pymatgen)** – ⭐ 1741 – Python Materials Genomics (pymatgen) is a robust materials analysis code that defines classes for structures and molecules with support for many electronic structure codes. It powers the Materials Project.
+- **[materialsproject/pymatgen](https://github.com/materialsproject/pymatgen)** – ⭐ 1742 – Python Materials Genomics (pymatgen) is a robust materials analysis code that defines classes for structures and molecules with support for many electronic structure codes. It powers the Materials Project.
 - **[duerrsimon/bioicons](https://github.com/duerrsimon/bioicons)** – ⭐ 1551 – A library of free open source icons for science illustrations in biology and chemistry
 - **[MultiQC/MultiQC](https://github.com/MultiQC/MultiQC)** – ⭐ 1384 – Aggregate results from bioinformatics analyses across many samples into a single report.
-- **[vgteam/vg](https://github.com/vgteam/vg)** – ⭐ 1251 – tools for working with genome variation graphs
+- **[vgteam/vg](https://github.com/vgteam/vg)** – ⭐ 1252 – tools for working with genome variation graphs
 - **[sib-swiss/training-collection](https://github.com/sib-swiss/training-collection)** – ⭐ 1068 – Collection of bioinformatics training materials
 - **[pachterlab/gget](https://github.com/pachterlab/gget)** – ⭐ 1066 – 🧬 gget enables efficient querying of genomic reference databases
-- **[hail-is/hail](https://github.com/hail-is/hail)** – ⭐ 1033 – Cloud-native genomic dataframes and batch computing
+- **[hail-is/hail](https://github.com/hail-is/hail)** – ⭐ 1034 – Cloud-native genomic dataframes and batch computing
 - **[cmdcolin/awesome-genome-visualization](https://github.com/cmdcolin/awesome-genome-visualization)** – ⭐ 1019 – A list of interesting genome browser and genome visualization programs
-- **[scikit-bio/scikit-bio](https://github.com/scikit-bio/scikit-bio)** – ⭐ 986 – scikit-bio: a community-driven Python library for bioinformatics, providing versatile data structures, algorithms and educational resources.
+- **[scikit-bio/scikit-bio](https://github.com/scikit-bio/scikit-bio)** – ⭐ 987 – scikit-bio: a community-driven Python library for bioinformatics, providing versatile data structures, algorithms and educational resources.
 - **[biotite-dev/biotite](https://github.com/biotite-dev/biotite)** – ⭐ 881 – A comprehensive library for computational molecular biology
 - **[cBioPortal/cbioportal](https://github.com/cBioPortal/cbioportal)** – ⭐ 876 – cBioPortal for Cancer Genomics
 - **[ablab/spades](https://github.com/ablab/spades)** – ⭐ 874 – SPAdes Genome Assembler
@@ -21,13 +21,13 @@
 - **[shenwei356/awesome](https://github.com/shenwei356/awesome)** – ⭐ 714 – Awesome resources on Bioinformatics, data science, machine learning, programming language (Python, Golang, R, Perl) and miscellaneous stuff.
 - **[thackl/gggenomes](https://github.com/thackl/gggenomes)** – ⭐ 702 – A grammar of graphics for comparative genomics
 - **[igvteam/igv](https://github.com/igvteam/igv)** – ⭐ 700 – Integrative Genomics Viewer. Fast, efficient, scalable visualization tool for genomics data and annotations
-- **[igvteam/igv.js](https://github.com/igvteam/igv.js)** – ⭐ 693 – Embeddable genomic visualization component based on the Integrative Genomics Viewer
+- **[igvteam/igv.js](https://github.com/igvteam/igv.js)** – ⭐ 694 – Embeddable genomic visualization component based on the Integrative Genomics Viewer
+- **[vandijklab/cell2sentence](https://github.com/vandijklab/cell2sentence)** – ⭐ 670 – Cell2Sentence: Teaching Large Language Models the Language of Biology
 - **[voutcn/megahit](https://github.com/voutcn/megahit)** – ⭐ 669 – Ultra-fast and memory-efficient (meta-)genome assembler
-- **[vandijklab/cell2sentence](https://github.com/vandijklab/cell2sentence)** – ⭐ 661 – Cell2Sentence: Teaching Large Language Models the Language of Biology
 - **[zaeleus/noodles](https://github.com/zaeleus/noodles)** – ⭐ 627 – Bioinformatics I/O libraries in Rust
 - **[ComparativeGenomicsToolkit/cactus](https://github.com/ComparativeGenomicsToolkit/cactus)** – ⭐ 618 – Official home of genome aligner based upon notion of Cactus graphs
-- **[OpenChemistry/avogadrolibs](https://github.com/OpenChemistry/avogadrolibs)** – ⭐ 570 – Avogadro libraries provide 3D rendering, visualization, analysis and data processing useful in computational chemistry, molecular modeling, bioinformatics, materials science, and related areas.
-- **[oschwengers/bakta](https://github.com/oschwengers/bakta)** – ⭐ 562 – Rapid & standardized annotation of bacterial genomes, MAGs & plasmids
+- **[OpenChemistry/avogadrolibs](https://github.com/OpenChemistry/avogadrolibs)** – ⭐ 571 – Avogadro libraries provide 3D rendering, visualization, analysis and data processing useful in computational chemistry, molecular modeling, bioinformatics, materials science, and related areas.
+- **[oschwengers/bakta](https://github.com/oschwengers/bakta)** – ⭐ 563 – Rapid & standardized annotation of bacterial genomes, MAGs & plasmids
 - **[sourmash-bio/sourmash](https://github.com/sourmash-bio/sourmash)** – ⭐ 525 – Quickly search, compare, and analyze genomic and metagenomic data sets.
 - **[lindenb/jvarkit](https://github.com/lindenb/jvarkit)** – ⭐ 510 – Java utilities for Bioinformatics
 - **[Ensembl/ensembl-vep](https://github.com/Ensembl/ensembl-vep)** – ⭐ 509 – The Ensembl Variant Effect Predictor predicts the functional effects of genomic variants
@@ -37,7 +37,7 @@
 - **[cov-lineages/pangolin](https://github.com/cov-lineages/pangolin)** – ⭐ 444 – Software package for assigning SARS-CoV-2 genome sequences to global lineages.
 - **[GenerTeam/GENERator](https://github.com/GenerTeam/GENERator)** – ⭐ 434 – GENERator: A Long-Context Generative Genomic Foundation Model
 - **[Gaius-Augustus/BRAKER](https://github.com/Gaius-Augustus/BRAKER)** – ⭐ 428 – BRAKER is a pipeline for fully automated prediction of protein coding gene structures with GeneMark-ES/ET/EP/ETP and AUGUSTUS in novel eukaryotic genomes
-- **[zeqianli/tgv](https://github.com/zeqianli/tgv)** – ⭐ 409 – Explore genomes in the terminal. Light, blazing fast 🚀, vim-motion.
+- **[zeqianli/tgv](https://github.com/zeqianli/tgv)** – ⭐ 411 – Explore genomes in the terminal. Light, blazing fast 🚀, vim-motion.
 - **[theislab/scarches](https://github.com/theislab/scarches)** – ⭐ 387 – Reference mapping for single-cell genomics
 - **[kcleal/gw](https://github.com/kcleal/gw)** – ⭐ 385 – Genome browser and variant annotation
 - **[moshi4/pyGenomeViz](https://github.com/moshi4/pyGenomeViz)** – ⭐ 375 – A genome visualization python package for comparative genomics
@@ -49,7 +49,7 @@
 - **[brewsci/homebrew-bio](https://github.com/brewsci/homebrew-bio)** – ⭐ 320 – :beer::microscope: Bioinformatics formulae for the Homebrew package manager (macOS and Linux)
 - **[pinellolab/CRISPResso2](https://github.com/pinellolab/CRISPResso2)** – ⭐ 320 – Analysis of deep sequencing data for rapid and intuitive interpretation of genome editing experiments
 - **[GenerTeam/GENERanno](https://github.com/GenerTeam/GENERanno)** – ⭐ 302 – GENERanno: A Genomic Foundation Model for Metagenomic Annotation
-- **[songlab-cal/gpn](https://github.com/songlab-cal/gpn)** – ⭐ 300 – Genomic Pre-trained Network
+- **[songlab-cal/gpn](https://github.com/songlab-cal/gpn)** – ⭐ 301 – Genomic Pre-trained Network
 - **[dzerbino/velvet](https://github.com/dzerbino/velvet)** – ⭐ 293 – Short read de novo assembler using de Bruijn graphs, as published in: D.R. Zerbino and E. Birney. 2008. Velvet: algorithms for de novo short read assembly using de Bruijn graphs. Genome Research, 18: 821-829
 - **[wurmlab/sequenceserver](https://github.com/wurmlab/sequenceserver)** – ⭐ 289 – Intuitive graphical web interface for running BLAST bioinformatics tool (i.e. have your own custom NCBI BLAST site!)
 - **[projectglow/glow](https://github.com/projectglow/glow)** – ⭐ 289 – An open-source toolkit for large-scale genomic analysis
