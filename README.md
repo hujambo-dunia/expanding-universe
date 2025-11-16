@@ -1,12 +1,12 @@
-## Trending Bioinformatics Repositories (Updated: 2025-11-15)
+## Trending Bioinformatics Repositories (Updated: 2025-11-16)
 
 **Showing 61 projects matching the criteria (250+ stars, recent updates)**
 
-- **[deepchem/deepchem](https://github.com/deepchem/deepchem)** – ⭐ 6330 – Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology
+- **[deepchem/deepchem](https://github.com/deepchem/deepchem)** – ⭐ 6331 – Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology
 - **[satijalab/seurat](https://github.com/satijalab/seurat)** – ⭐ 2560 – R toolkit for single cell genomics
 - **[rust-bio/rust-bio](https://github.com/rust-bio/rust-bio)** – ⭐ 1752 – This library provides implementations of many algorithms and data structures that are useful for bioinformatics. All provided implementations are rigorously tested via continuous integration.
-- **[materialsproject/pymatgen](https://github.com/materialsproject/pymatgen)** – ⭐ 1748 – Python Materials Genomics (pymatgen) is a robust materials analysis code that defines classes for structures and molecules with support for many electronic structure codes. It powers the Materials Project.
-- **[duerrsimon/bioicons](https://github.com/duerrsimon/bioicons)** – ⭐ 1559 – A library of free open source icons for science illustrations in biology and chemistry
+- **[materialsproject/pymatgen](https://github.com/materialsproject/pymatgen)** – ⭐ 1749 – Python Materials Genomics (pymatgen) is a robust materials analysis code that defines classes for structures and molecules with support for many electronic structure codes. It powers the Materials Project.
+- **[duerrsimon/bioicons](https://github.com/duerrsimon/bioicons)** – ⭐ 1560 – A library of free open source icons for science illustrations in biology and chemistry
 - **[MultiQC/MultiQC](https://github.com/MultiQC/MultiQC)** – ⭐ 1389 – Aggregate results from bioinformatics analyses across many samples into a single report.
 - **[vgteam/vg](https://github.com/vgteam/vg)** – ⭐ 1256 – tools for working with genome variation graphs
 - **[sib-swiss/training-collection](https://github.com/sib-swiss/training-collection)** – ⭐ 1077 – Collection of bioinformatics training materials
@@ -14,22 +14,22 @@
 - **[hail-is/hail](https://github.com/hail-is/hail)** – ⭐ 1037 – Cloud-native genomic dataframes and batch computing
 - **[cmdcolin/awesome-genome-visualization](https://github.com/cmdcolin/awesome-genome-visualization)** – ⭐ 1021 – A list of interesting genome browser and genome visualization programs
 - **[scikit-bio/scikit-bio](https://github.com/scikit-bio/scikit-bio)** – ⭐ 989 – scikit-bio: a community-driven Python library for bioinformatics, providing versatile data structures, algorithms and educational resources.
+- **[cBioPortal/cbioportal](https://github.com/cBioPortal/cbioportal)** – ⭐ 885 – cBioPortal for Cancer Genomics
 - **[biotite-dev/biotite](https://github.com/biotite-dev/biotite)** – ⭐ 885 – A comprehensive library for computational molecular biology
-- **[cBioPortal/cbioportal](https://github.com/cBioPortal/cbioportal)** – ⭐ 882 – cBioPortal for Cancer Genomics
 - **[ablab/spades](https://github.com/ablab/spades)** – ⭐ 877 – SPAdes Genome Assembler
-- **[tanghaibao/jcvi](https://github.com/tanghaibao/jcvi)** – ⭐ 870 – Python library to facilitate genome assembly, annotation, and comparative genomics
+- **[tanghaibao/jcvi](https://github.com/tanghaibao/jcvi)** – ⭐ 871 – Python library to facilitate genome assembly, annotation, and comparative genomics
 - **[pysam-developers/pysam](https://github.com/pysam-developers/pysam)** – ⭐ 864 – Pysam is a Python package for reading, manipulating, and writing genomics data such as SAM/BAM/CRAM and VCF/BCF files. It's a lightweight wrapper of the HTSlib API, the same one that powers samtools, bcftools, and tabix.
 - **[BioContainers/containers](https://github.com/BioContainers/containers)** – ⭐ 762 – Bioinformatics containers
-- **[instadeepai/nucleotide-transformer](https://github.com/instadeepai/nucleotide-transformer)** – ⭐ 730 – Foundation Models for Genomics & Transcriptomics
-- **[vandijklab/cell2sentence](https://github.com/vandijklab/cell2sentence)** – ⭐ 730 – Cell2Sentence: Teaching Large Language Models the Language of Biology
+- **[vandijklab/cell2sentence](https://github.com/vandijklab/cell2sentence)** – ⭐ 732 – Cell2Sentence: Teaching Large Language Models the Language of Biology
+- **[instadeepai/nucleotide-transformer](https://github.com/instadeepai/nucleotide-transformer)** – ⭐ 731 – Foundation Models for Genomics & Transcriptomics
 - **[shenwei356/awesome](https://github.com/shenwei356/awesome)** – ⭐ 720 – Awesome resources on Bioinformatics, data science, machine learning, programming language (Python, Golang, R, Perl) and miscellaneous stuff.
 - **[thackl/gggenomes](https://github.com/thackl/gggenomes)** – ⭐ 710 – A grammar of graphics for comparative genomics
-- **[igvteam/igv](https://github.com/igvteam/igv)** – ⭐ 702 – Integrative Genomics Viewer. Fast, efficient, scalable visualization tool for genomics data and annotations
+- **[igvteam/igv](https://github.com/igvteam/igv)** – ⭐ 703 – Integrative Genomics Viewer. Fast, efficient, scalable visualization tool for genomics data and annotations
 - **[igvteam/igv.js](https://github.com/igvteam/igv.js)** – ⭐ 696 – Embeddable genomic visualization component based on the Integrative Genomics Viewer
 - **[voutcn/megahit](https://github.com/voutcn/megahit)** – ⭐ 672 – Ultra-fast and memory-efficient (meta-)genome assembler
 - **[zaeleus/noodles](https://github.com/zaeleus/noodles)** – ⭐ 631 – Bioinformatics I/O libraries in Rust
 - **[ComparativeGenomicsToolkit/cactus](https://github.com/ComparativeGenomicsToolkit/cactus)** – ⭐ 622 – Official home of genome aligner based upon notion of Cactus graphs
-- **[OpenChemistry/avogadrolibs](https://github.com/OpenChemistry/avogadrolibs)** – ⭐ 573 – Avogadro libraries provide 3D rendering, visualization, analysis and data processing useful in computational chemistry, molecular modeling, bioinformatics, materials science, and related areas.
+- **[OpenChemistry/avogadrolibs](https://github.com/OpenChemistry/avogadrolibs)** – ⭐ 572 – Avogadro libraries provide 3D rendering, visualization, analysis and data processing useful in computational chemistry, molecular modeling, bioinformatics, materials science, and related areas.
 - **[oschwengers/bakta](https://github.com/oschwengers/bakta)** – ⭐ 567 – Rapid & standardized annotation of bacterial genomes, MAGs & plasmids
 - **[Ecogenomics/GTDBTk](https://github.com/Ecogenomics/GTDBTk)** – ⭐ 552 – GTDB-Tk: a toolkit for assigning objective taxonomic classifications to bacterial and archaeal genomes.
 - **[sourmash-bio/sourmash](https://github.com/sourmash-bio/sourmash)** – ⭐ 527 – Quickly search, compare, and analyze genomic and metagenomic data sets.
