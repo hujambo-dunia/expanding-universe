@@ -1,14 +1,14 @@
-## Trending Bioinformatics Repositories (Updated: 2026-01-29)
+## Trending Bioinformatics Repositories (Updated: 2026-01-30)
 
 **Showing 58 projects matching the criteria (250+ stars, recent updates)**
 
-- **[deepchem/deepchem](https://github.com/deepchem/deepchem)** – ⭐ 6495 – Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology
-- **[satijalab/seurat](https://github.com/satijalab/seurat)** – ⭐ 2628 – R toolkit for single cell genomics
+- **[deepchem/deepchem](https://github.com/deepchem/deepchem)** – ⭐ 6500 – Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology
+- **[satijalab/seurat](https://github.com/satijalab/seurat)** – ⭐ 2632 – R toolkit for single cell genomics
 - **[hussius/deeplearning-biology](https://github.com/hussius/deeplearning-biology)** – ⭐ 2117 – A list of deep learning implementations in biology
 - **[materialsproject/pymatgen](https://github.com/materialsproject/pymatgen)** – ⭐ 1794 – Python Materials Genomics (pymatgen) is a robust materials analysis code that defines classes for structures and molecules with support for many electronic structure codes. It powers the Materials Project.
 - **[rust-bio/rust-bio](https://github.com/rust-bio/rust-bio)** – ⭐ 1771 – This library provides implementations of many algorithms and data structures that are useful for bioinformatics. All provided implementations are rigorously tested via continuous integration.
 - **[duerrsimon/bioicons](https://github.com/duerrsimon/bioicons)** – ⭐ 1603 – A library of free open source icons for science illustrations in biology and chemistry
-- **[MultiQC/MultiQC](https://github.com/MultiQC/MultiQC)** – ⭐ 1414 – Aggregate results from bioinformatics analyses across many samples into a single report.
+- **[MultiQC/MultiQC](https://github.com/MultiQC/MultiQC)** – ⭐ 1415 – Aggregate results from bioinformatics analyses across many samples into a single report.
 - **[vgteam/vg](https://github.com/vgteam/vg)** – ⭐ 1292 – tools for working with genome variation graphs
 - **[ai-boost/awesome-ai-for-science](https://github.com/ai-boost/awesome-ai-for-science)** – ⭐ 1183 – A curated list of awesome AI tools, libraries, papers, datasets, and frameworks that accelerate scientific discovery — from physics and chemistry to biology, materials, and beyond.
 - **[scikit-bio/scikit-bio](https://github.com/scikit-bio/scikit-bio)** – ⭐ 1148 – scikit-bio: a community-driven Python library for bioinformatics, providing versatile data structures, algorithms and educational resources.
@@ -17,12 +17,12 @@
 - **[hail-is/hail](https://github.com/hail-is/hail)** – ⭐ 1046 – Cloud-native genomic dataframes and batch computing
 - **[cmdcolin/awesome-genome-visualization](https://github.com/cmdcolin/awesome-genome-visualization)** – ⭐ 1044 – A list of interesting genome browser and genome visualization programs
 - **[tseemann/prokka](https://github.com/tseemann/prokka)** – ⭐ 952 – :zap: :aquarius: Rapid prokaryotic genome annotation
-- **[cBioPortal/cbioportal](https://github.com/cBioPortal/cbioportal)** – ⭐ 938 – cBioPortal for Cancer Genomics
+- **[cBioPortal/cbioportal](https://github.com/cBioPortal/cbioportal)** – ⭐ 940 – cBioPortal for Cancer Genomics
 - **[biotite-dev/biotite](https://github.com/biotite-dev/biotite)** – ⭐ 919 – A comprehensive library for computational molecular biology
-- **[ablab/spades](https://github.com/ablab/spades)** – ⭐ 902 – SPAdes Genome Assembler
+- **[ablab/spades](https://github.com/ablab/spades)** – ⭐ 903 – SPAdes Genome Assembler
 - **[pysam-developers/pysam](https://github.com/pysam-developers/pysam)** – ⭐ 877 – Pysam is a Python package for reading, manipulating, and writing genomics data such as SAM/BAM/CRAM and VCF/BCF files. It's a lightweight wrapper of the HTSlib API, the same one that powers samtools, bcftools, and tabix.
-- **[instadeepai/nucleotide-transformer](https://github.com/instadeepai/nucleotide-transformer)** – ⭐ 809 – Foundation Models for Genomics & Transcriptomics
-- **[jerryji1993/DNABERT](https://github.com/jerryji1993/DNABERT)** – ⭐ 732 – DNABERT: pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome
+- **[instadeepai/nucleotide-transformer](https://github.com/instadeepai/nucleotide-transformer)** – ⭐ 810 – Foundation Models for Genomics & Transcriptomics
+- **[jerryji1993/DNABERT](https://github.com/jerryji1993/DNABERT)** – ⭐ 733 – DNABERT: pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome
 - **[igvteam/igv](https://github.com/igvteam/igv)** – ⭐ 714 – Integrative Genomics Viewer. Fast, efficient, scalable visualization tool for genomics data and annotations
 - **[igvteam/igv.js](https://github.com/igvteam/igv.js)** – ⭐ 706 – Embeddable genomic visualization component based on the Integrative Genomics Viewer
 - **[zaeleus/noodles](https://github.com/zaeleus/noodles)** – ⭐ 647 – Bioinformatics I/O libraries in Rust
@@ -38,7 +38,7 @@
 - **[GMOD/jbrowse](https://github.com/GMOD/jbrowse)** – ⭐ 473 – JBrowse 1, a full-featured genome browser built with JavaScript and HTML5. For JBrowse 2, see https://github.com/GMOD/jbrowse-components.
 - **[MAGICS-LAB/DNABERT_2](https://github.com/MAGICS-LAB/DNABERT_2)** – ⭐ 453 – [ICLR 2024] DNABERT-2: Efficient Foundation Model and Benchmark for Multi-Species Genome
 - **[cov-lineages/pangolin](https://github.com/cov-lineages/pangolin)** – ⭐ 446 – Software package for assigning SARS-CoV-2 genome sequences to global lineages.
-- **[zeqianli/tgv](https://github.com/zeqianli/tgv)** – ⭐ 430 – Explore genomes in the terminal. Light, blazing fast 🚀, vim-motion.
+- **[zeqianli/tgv](https://github.com/zeqianli/tgv)** – ⭐ 432 – Explore genomes in the terminal. Light, blazing fast 🚀, vim-motion.
 - **[whatshap/whatshap](https://github.com/whatshap/whatshap)** – ⭐ 402 – Read-based phasing of genomic variants, also called haplotype assembly
 - **[lh3/miniprot](https://github.com/lh3/miniprot)** – ⭐ 395 – Align proteins to genomes with splicing and frameshift
 - **[imteekay/machine-learning-research](https://github.com/imteekay/machine-learning-research)** – ⭐ 385 – ✨ ML for Biology & Medicine Research
