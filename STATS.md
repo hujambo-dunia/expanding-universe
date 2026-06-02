@@ -301,3 +301,4 @@
 | 2026-05-30 | 76 | (biology OR bioinformatics OR genome OR genomic) in:description stars:>250 pushed:>=2026-04-30 |
 | 2026-05-31 | 75 | (biology OR bioinformatics OR genome OR genomic) in:description stars:>250 pushed:>=2026-05-01 |
 | 2026-06-01 | 75 | (biology OR bioinformatics OR genome OR genomic) in:description stars:>250 pushed:>=2026-05-02 |
+| 2026-06-02 | 73 | (biology OR bioinformatics OR genome OR genomic) in:description stars:>250 pushed:>=2026-05-03 |
