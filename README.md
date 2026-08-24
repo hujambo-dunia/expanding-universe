@@ -1,27 +1,26 @@
-## Trending Bioinformatics Repositories (Updated: 2026-08-23)
+## Trending Bioinformatics Repositories (Updated: 2026-08-24)
 
-**Showing 72 projects matching the criteria (250+ stars, recent updates)**
+**Showing 69 projects matching the criteria (250+ stars, recent updates)**
 
-- **[K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)** – ⭐ 34132 – Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 175,000+ scientists worldwide. 163 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.
-- **[deepchem/deepchem](https://github.com/deepchem/deepchem)** – ⭐ 6950 – Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology
-- **[satijalab/seurat](https://github.com/satijalab/seurat)** – ⭐ 2789 – R toolkit for single cell genomics
+- **[K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)** – ⭐ 34185 – Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 175,000+ scientists worldwide. 163 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.
+- **[deepchem/deepchem](https://github.com/deepchem/deepchem)** – ⭐ 6954 – Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology
+- **[satijalab/seurat](https://github.com/satijalab/seurat)** – ⭐ 2788 – R toolkit for single cell genomics
 - **[hussius/deeplearning-biology](https://github.com/hussius/deeplearning-biology)** – ⭐ 2155 – A list of deep learning implementations in biology
 - **[materialsproject/pymatgen](https://github.com/materialsproject/pymatgen)** – ⭐ 1943 – Python Materials Genomics (pymatgen) is a robust materials analysis code that defines classes for structures and molecules with support for many electronic structure codes. It powers the Materials Project.
-- **[ai4s-research/awesome-ai-for-science](https://github.com/ai4s-research/awesome-ai-for-science)** – ⭐ 1896 – A curated list of awesome AI tools, libraries, papers, datasets, and frameworks that accelerate scientific discovery — from physics and chemistry to biology, materials, and beyond.
+- **[ai4s-research/awesome-ai-for-science](https://github.com/ai4s-research/awesome-ai-for-science)** – ⭐ 1897 – A curated list of awesome AI tools, libraries, papers, datasets, and frameworks that accelerate scientific discovery — from physics and chemistry to biology, materials, and beyond.
 - **[rust-bio/rust-bio](https://github.com/rust-bio/rust-bio)** – ⭐ 1831 – This library provides implementations of many algorithms and data structures that are useful for bioinformatics. All provided implementations are rigorously tested via continuous integration.
-- **[duerrsimon/bioicons](https://github.com/duerrsimon/bioicons)** – ⭐ 1725 – A library of free open source icons for science illustrations in biology and chemistry
+- **[duerrsimon/bioicons](https://github.com/duerrsimon/bioicons)** – ⭐ 1726 – A library of free open source icons for science illustrations in biology and chemistry
 - **[MultiQC/MultiQC](https://github.com/MultiQC/MultiQC)** – ⭐ 1488 – Aggregate results from bioinformatics analyses across many samples into a single report.
 - **[vgteam/vg](https://github.com/vgteam/vg)** – ⭐ 1333 – tools for working with genome variation graphs
-- **[thieu1995/mealpy](https://github.com/thieu1995/mealpy)** – ⭐ 1269 – A Collection Of The State-of-the-art Metaheuristic Algorithms In Python (Metaheuristic/Optimizer/Nature-inspired/Biology)
 - **[scikit-bio/scikit-bio](https://github.com/scikit-bio/scikit-bio)** – ⭐ 1228 – scikit-bio: a community-driven Python library for bioinformatics, providing versatile data structures, algorithms and educational resources.
-- **[GPTomics/bioSkills](https://github.com/GPTomics/bioSkills)** – ⭐ 1190 – a set of SKILLS.md for doing bioinformatics with agents like claude code
-- **[scverse/gget](https://github.com/scverse/gget)** – ⭐ 1187 – 🧬 gget enables efficient querying of genomic reference databases
+- **[GPTomics/bioSkills](https://github.com/GPTomics/bioSkills)** – ⭐ 1192 – a set of SKILLS.md for doing bioinformatics with agents like claude code
+- **[scverse/gget](https://github.com/scverse/gget)** – ⭐ 1188 – 🧬 gget enables efficient querying of genomic reference databases
 - **[sib-swiss/training-collection](https://github.com/sib-swiss/training-collection)** – ⭐ 1143 – Collection of bioinformatics training materials
-- **[ClawBio/ClawBio](https://github.com/ClawBio/ClawBio)** – ⭐ 1112 – 🦖 ClawBio - The first bioinformatics-native AI agent skill library. Local-first. Reproducible. Open. Free.
+- **[ClawBio/ClawBio](https://github.com/ClawBio/ClawBio)** – ⭐ 1114 – 🦖 ClawBio - The first bioinformatics-native AI agent skill library. Local-first. Reproducible. Open. Free.
 - **[hail-is/hail](https://github.com/hail-is/hail)** – ⭐ 1069 – Cloud-native genomic dataframes and batch computing
 - **[thetahealth/mirobody](https://github.com/thetahealth/mirobody)** – ⭐ 1058 – The AI-native health data engine — collect, standardize, and reason over labs, wearables & genomics.
+- **[xuzhougeng/wisp-science](https://github.com/xuzhougeng/wisp-science)** – ⭐ 1032 – Open-source, local-first desktop AI research workbench for scientific computing with Python/R, MCP bioinformatics tools, SSH/WSL/GPU runtimes, and OpenAI/Anthropic models.
 - **[cBioPortal/cbioportal](https://github.com/cBioPortal/cbioportal)** – ⭐ 1029 – cBioPortal for Cancer Genomics
-- **[xuzhougeng/wisp-science](https://github.com/xuzhougeng/wisp-science)** – ⭐ 1026 – Open-source, local-first desktop AI research workbench for scientific computing with Python/R, MCP bioinformatics tools, SSH/WSL/GPU runtimes, and OpenAI/Anthropic models.
 - **[proxysoul/Empryo](https://github.com/proxysoul/Empryo)** – ⭐ 979 – Empryo issue tracker + SoulForge (v2). Empryo is the graph-powered AI coding agent that edits symbols, not strings: AST surgery, full LSP, a live code genome. Get it at https://empryo.com
 - **[biotite-dev/biotite](https://github.com/biotite-dev/biotite)** – ⭐ 968 – A comprehensive library for computational molecular biology
 - **[tanghaibao/jcvi](https://github.com/tanghaibao/jcvi)** – ⭐ 927 – Python library to facilitate genome assembly, annotation, and comparative genomics
@@ -29,16 +28,15 @@
 - **[eggnogdb/eggnog-mapper](https://github.com/eggnogdb/eggnog-mapper)** – ⭐ 765 – Fast genome-wide functional annotation through orthology assignment
 - **[igvteam/igv](https://github.com/igvteam/igv)** – ⭐ 757 – Integrative Genomics Viewer. Fast, efficient, scalable visualization tool for genomics data and annotations
 - **[igvteam/igv.js](https://github.com/igvteam/igv.js)** – ⭐ 732 – Embeddable genomic visualization component based on the Integrative Genomics Viewer
-- **[zaeleus/noodles](https://github.com/zaeleus/noodles)** – ⭐ 716 – Bioinformatics I/O libraries in Rust
+- **[zaeleus/noodles](https://github.com/zaeleus/noodles)** – ⭐ 717 – Bioinformatics I/O libraries in Rust
 - **[ComparativeGenomicsToolkit/cactus](https://github.com/ComparativeGenomicsToolkit/cactus)** – ⭐ 701 – Official home of genome aligner based upon notion of Cactus graphs
 - **[OpenChemistry/avogadrolibs](https://github.com/OpenChemistry/avogadrolibs)** – ⭐ 668 – Avogadro libraries provide 3D rendering, visualization, analysis and data processing useful in computational chemistry, molecular modeling, bioinformatics, materials science, and related areas.
-- **[oschwengers/bakta](https://github.com/oschwengers/bakta)** – ⭐ 667 – Rapid & standardized annotation of bacterial genomes, MAGs & plasmids
+- **[oschwengers/bakta](https://github.com/oschwengers/bakta)** – ⭐ 668 – Rapid & standardized annotation of bacterial genomes, MAGs & plasmids
 - **[rrwick/Unicycler](https://github.com/rrwick/Unicycler)** – ⭐ 651 – hybrid assembly pipeline for bacterial genomes
 - **[davidliwei/awesome-CRISPR](https://github.com/davidliwei/awesome-CRISPR)** – ⭐ 579 – List of software/websites/databases/other stuff for genome engineering
 - **[Ensembl/ensembl-vep](https://github.com/Ensembl/ensembl-vep)** – ⭐ 568 – The Ensembl Variant Effect Predictor predicts the functional effects of genomic variants
 - **[sourmash-bio/sourmash](https://github.com/sourmash-bio/sourmash)** – ⭐ 555 – Quickly search, compare, and analyze genomic and metagenomic data sets.
 - **[SciML/Catalyst.jl](https://github.com/SciML/Catalyst.jl)** – ⭐ 525 – Chemical reaction network and systems biology interface for scientific machine learning (SciML). High performance, GPU-parallelized, and O(1) solvers in open source software.
-- **[lindenb/jvarkit](https://github.com/lindenb/jvarkit)** – ⭐ 524 – Java utilities for Bioinformatics
 - **[bactopia/bactopia](https://github.com/bactopia/bactopia)** – ⭐ 522 – A flexible pipeline for complete analysis of bacterial genomes
 - **[openbiox/awosome-bioinformatics](https://github.com/openbiox/awosome-bioinformatics)** – ⭐ 520 – A curated list of resources for learning bioinformatics.
 - **[chrchang/plink-ng](https://github.com/chrchang/plink-ng)** – ⭐ 511 – PLINK is a free, open-source whole genome association analysis toolset, designed to perform a range of basic, large-scale analyses in a computationally efficient manner.  This is a comprehensive update to it.
@@ -53,11 +51,10 @@
 - **[schneebergerlab/plotsr](https://github.com/schneebergerlab/plotsr)** – ⭐ 353 – Tool to plot synteny and structural rearrangements between genomes
 - **[songlab-cal/gpn](https://github.com/songlab-cal/gpn)** – ⭐ 352 – Genomic Pre-trained Network
 - **[pinellolab/CRISPResso2](https://github.com/pinellolab/CRISPResso2)** – ⭐ 352 – Analysis of deep sequencing data for rapid and intuitive interpretation of genome editing experiments
-- **[rrwick/Trycycler](https://github.com/rrwick/Trycycler)** – ⭐ 348 – A tool for generating consensus long-read assemblies for bacterial genomes
 - **[jaechang-hits/SciAgent-Skills](https://github.com/jaechang-hits/SciAgent-Skills)** – ⭐ 340 – 197 bioinformatics & life science skills for Claude Code and AI agents — BixBench 92.0% accuracy. RNA-seq, single-cell, drug discovery, proteomics, and more. Powers OmicsHorizon.
 - **[BortonWrightonLabs/DRAM](https://github.com/BortonWrightonLabs/DRAM)** – ⭐ 336 – Distilled and Refined Annotation of Metabolism: A tool for the annotation and curation of function for microbial and viral genomes
 - **[brewsci/homebrew-bio](https://github.com/brewsci/homebrew-bio)** – ⭐ 328 – :beer::microscope: Bioinformatics formulae for the Homebrew package manager (macOS and Linux)
-- **[labgem/PPanGGOLiN](https://github.com/labgem/PPanGGOLiN)** – ⭐ 308 – Build a partitioned pangenome graph from microbial genomes
+- **[labgem/PPanGGOLiN](https://github.com/labgem/PPanGGOLiN)** – ⭐ 310 – Build a partitioned pangenome graph from microbial genomes
 - **[MariaNattestad/Ribbon](https://github.com/MariaNattestad/Ribbon)** – ⭐ 305 – A genome browser designed for complex structural variants and long reads.
 - **[tjiangHIT/cuteSV](https://github.com/tjiangHIT/cuteSV)** – ⭐ 292 – Long read based human genomic structural variation detection with cuteSV
 - **[GMOD/jbrowse-components](https://github.com/GMOD/jbrowse-components)** – ⭐ 291 – Source code for JBrowse 2, a modern React-based genome browser
@@ -70,7 +67,7 @@
 - **[cgroza/GraffiTE](https://github.com/cgroza/GraffiTE)** – ⭐ 272 – GraffiTE is a pipeline that finds polymorphic transposable elements in genome assemblies and/or long reads, and genotypes the discovered polymorphisms in read sets using genome-graphs.
 - **[AstraZeneca/awesome-drug-discovery-knowledge-graphs](https://github.com/AstraZeneca/awesome-drug-discovery-knowledge-graphs)** – ⭐ 266 – A collection of research papers, datasets and software related to knowledge graphs for drug discovery. Accompanies the paper "A review of biomedical datasets relating to drug discovery: a knowledge graph perspective" (Briefings in Bioinformatics, 2022)
 - **[nextstrain/nextclade](https://github.com/nextstrain/nextclade)** – ⭐ 261 – Viral genome alignment, mutation calling, clade assignment, quality checks and phylogenetic placement
+- **[huangnengCSU/compleasm](https://github.com/huangnengCSU/compleasm)** – ⭐ 261 – A genome completeness evaluation tool based on miniprot
 - **[OpenChemistry/avogadroapp](https://github.com/OpenChemistry/avogadroapp)** – ⭐ 260 – Avogadro is an advanced molecular editor designed for cross-platform use in computational chemistry, molecular modeling, bioinformatics, materials science, and related areas.
-- **[huangnengCSU/compleasm](https://github.com/huangnengCSU/compleasm)** – ⭐ 260 – A genome completeness evaluation tool based on miniprot
 - **[logannye/rosalind](https://github.com/logannye/rosalind)** – ⭐ 254 – Deterministic, resource-governed per-locus genomics analyses with transactional artifacts, receipts, replay, Arrow, and reproducible sharding.
 - **[gladstone-institutes/Bioinformatics-Workshops](https://github.com/gladstone-institutes/Bioinformatics-Workshops)** – ⭐ 251 – Workshops presented by the Gladstone Bioinformatics Core
