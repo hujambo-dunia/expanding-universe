@@ -1,24 +1,24 @@
-## Trending Bioinformatics Repositories (Updated: 2026-11-12)
+## Trending Bioinformatics Repositories (Updated: 2026-11-13)
 
-**Showing 69 projects matching the criteria (250+ stars, recent updates)**
+**Showing 70 projects matching the criteria (250+ stars, recent updates)**
 
-- **[K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)** – ⭐ 56845 – Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.
-- **[satijalab/seurat](https://github.com/satijalab/seurat)** – ⭐ 2816 – R toolkit for single cell genomics
-- **[ai4s-research/awesome-ai-for-science](https://github.com/ai4s-research/awesome-ai-for-science)** – ⭐ 2088 – A curated list of awesome AI tools, libraries, papers, datasets, and frameworks that accelerate scientific discovery — from physics and chemistry to biology, materials, and beyond.
-- **[materialsproject/pymatgen](https://github.com/materialsproject/pymatgen)** – ⭐ 2012 – Python Materials Genomics (pymatgen) is a robust materials analysis code that defines classes for structures and molecules with support for many electronic structure codes. It powers the Materials Project.
+- **[K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)** – ⭐ 56965 – Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.
+- **[satijalab/seurat](https://github.com/satijalab/seurat)** – ⭐ 2817 – R toolkit for single cell genomics
+- **[ai4s-research/awesome-ai-for-science](https://github.com/ai4s-research/awesome-ai-for-science)** – ⭐ 2091 – A curated list of awesome AI tools, libraries, papers, datasets, and frameworks that accelerate scientific discovery — from physics and chemistry to biology, materials, and beyond.
+- **[materialsproject/pymatgen](https://github.com/materialsproject/pymatgen)** – ⭐ 2015 – Python Materials Genomics (pymatgen) is a robust materials analysis code that defines classes for structures and molecules with support for many electronic structure codes. It powers the Materials Project.
 - **[duerrsimon/bioicons](https://github.com/duerrsimon/bioicons)** – ⭐ 1795 – A library of free open source icons for science illustrations in biology and chemistry
-- **[kevinraymond/florilegium](https://github.com/kevinraymond/florilegium)** – ⭐ 1636 – Procedurally generated Delft-blue floral page margins for LuaLaTeX, with plants and visitors sampled from genomes and a TikZ library that also draws them under pdfLaTeX
+- **[kevinraymond/florilegium](https://github.com/kevinraymond/florilegium)** – ⭐ 1646 – Procedurally generated Delft-blue floral page margins for LuaLaTeX, with plants and visitors sampled from genomes and a TikZ library that also draws them under pdfLaTeX
 - **[MultiQC/MultiQC](https://github.com/MultiQC/MultiQC)** – ⭐ 1500 – Aggregate results from bioinformatics analyses across many samples into a single report.
 - **[vgteam/vg](https://github.com/vgteam/vg)** – ⭐ 1349 – tools for working with genome variation graphs
 - **[scikit-bio/scikit-bio](https://github.com/scikit-bio/scikit-bio)** – ⭐ 1261 – scikit-bio: a community-driven Python library for bioinformatics, providing versatile data structures, algorithms and educational resources.
 - **[scverse/gget](https://github.com/scverse/gget)** – ⭐ 1212 – 🧬 gget enables efficient querying of genomic reference databases
-- **[ClawBio/ClawBio](https://github.com/ClawBio/ClawBio)** – ⭐ 1181 – 🦖 ClawBio - The first bioinformatics-native AI agent skill library. Local-first. Reproducible. Open. Free.
-- **[sib-swiss/training-collection](https://github.com/sib-swiss/training-collection)** – ⭐ 1159 – Collection of bioinformatics training materials
+- **[ClawBio/ClawBio](https://github.com/ClawBio/ClawBio)** – ⭐ 1182 – 🦖 ClawBio - The first bioinformatics-native AI agent skill library. Local-first. Reproducible. Open. Free.
+- **[sib-swiss/training-collection](https://github.com/sib-swiss/training-collection)** – ⭐ 1160 – Collection of bioinformatics training materials
 - **[cmdcolin/awesome-genome-visualization](https://github.com/cmdcolin/awesome-genome-visualization)** – ⭐ 1113 – A list of interesting genome browser and genome visualization programs
 - **[hail-is/hail](https://github.com/hail-is/hail)** – ⭐ 1082 – Cloud-native genomic dataframes and batch computing
-- **[xuzhougeng/wisp-science](https://github.com/xuzhougeng/wisp-science)** – ⭐ 1070 – Open-source, local-first desktop AI research workbench for scientific computing with Python/R, MCP bioinformatics tools, SSH/WSL/GPU runtimes, and OpenAI/Anthropic models.
-- **[cBioPortal/cbioportal](https://github.com/cBioPortal/cbioportal)** – ⭐ 1066 – cBioPortal for Cancer Genomics
-- **[biotite-dev/biotite](https://github.com/biotite-dev/biotite)** – ⭐ 982 – A comprehensive library for computational molecular biology
+- **[xuzhougeng/wisp-science](https://github.com/xuzhougeng/wisp-science)** – ⭐ 1074 – Open-source, local-first desktop AI research workbench for scientific computing with Python/R, MCP bioinformatics tools, SSH/WSL/GPU runtimes, and OpenAI/Anthropic models.
+- **[cBioPortal/cbioportal](https://github.com/cBioPortal/cbioportal)** – ⭐ 1067 – cBioPortal for Cancer Genomics
+- **[biotite-dev/biotite](https://github.com/biotite-dev/biotite)** – ⭐ 983 – A comprehensive library for computational molecular biology
 - **[ablab/spades](https://github.com/ablab/spades)** – ⭐ 972 – SPAdes Genome Assembler
 - **[instadeepai/nucleotide-transformer](https://github.com/instadeepai/nucleotide-transformer)** – ⭐ 942 – Foundation Models for Genomics & Transcriptomics
 - **[tanghaibao/jcvi](https://github.com/tanghaibao/jcvi)** – ⭐ 939 – Python library to facilitate genome assembly, annotation, and comparative genomics
@@ -37,15 +37,15 @@
 - **[chrchang/plink-ng](https://github.com/chrchang/plink-ng)** – ⭐ 531 – PLINK is a free, open-source whole genome association analysis toolset, designed to perform a range of basic, large-scale analyses in a computationally efficient manner.  This is a comprehensive update to it.
 - **[lindenb/jvarkit](https://github.com/lindenb/jvarkit)** – ⭐ 527 – Java utilities for Bioinformatics
 - **[zeqianli/tgv](https://github.com/zeqianli/tgv)** – ⭐ 490 – Genome viewer for you and your agents.
-- **[stjude/learngenomics.dev](https://github.com/stjude/learngenomics.dev)** – ⭐ 461 – A guided, intuitive introduction to genomics for software engineers. Curated by the community.
+- **[stjude/learngenomics.dev](https://github.com/stjude/learngenomics.dev)** – ⭐ 470 – A guided, intuitive introduction to genomics for software engineers. Curated by the community.
 - **[whatshap/whatshap](https://github.com/whatshap/whatshap)** – ⭐ 434 – Read-based phasing of genomic variants, also called haplotype assembly
 - **[Ecogenomics/CheckM](https://github.com/Ecogenomics/CheckM)** – ⭐ 414 – Assess the quality of prokaryotic genomes recovered from isolates, single cells, and metagenomes
 - **[openvax/pyensembl](https://github.com/openvax/pyensembl)** – ⭐ 411 – Python interface to access reference genome features (such as genes, transcripts, and exons) from Ensembl
-- **[nextgenusfs/funannotate](https://github.com/nextgenusfs/funannotate)** – ⭐ 403 – Eukaryotic Genome Annotation Pipeline
+- **[nextgenusfs/funannotate](https://github.com/nextgenusfs/funannotate)** – ⭐ 404 – Eukaryotic Genome Annotation Pipeline
 - **[kcleal/gw](https://github.com/kcleal/gw)** – ⭐ 400 – Genome browser and variant annotation
 - **[ebi-pf-team/interproscan](https://github.com/ebi-pf-team/interproscan)** – ⭐ 396 – Genome-scale protein function classification
+- **[jaechang-hits/SciAgent-Skills](https://github.com/jaechang-hits/SciAgent-Skills)** – ⭐ 388 – 197 bioinformatics & life science skills for Claude Code and AI agents — BixBench 92.0% accuracy. RNA-seq, single-cell, drug discovery, proteomics, and more. Powers OmicsHorizon.
 - **[songlab-cal/gpn](https://github.com/songlab-cal/gpn)** – ⭐ 387 – Genomic Pretrained Network - GPN, GPN-MSA, PhyloGPN, GPN-Star
-- **[jaechang-hits/SciAgent-Skills](https://github.com/jaechang-hits/SciAgent-Skills)** – ⭐ 387 – 197 bioinformatics & life science skills for Claude Code and AI agents — BixBench 92.0% accuracy. RNA-seq, single-cell, drug discovery, proteomics, and more. Powers OmicsHorizon.
 - **[fulcrumgenomics/fgbio](https://github.com/fulcrumgenomics/fgbio)** – ⭐ 380 – Tools for working with genomic and high throughput sequencing data.
 - **[pinellolab/CRISPResso2](https://github.com/pinellolab/CRISPResso2)** – ⭐ 359 – Analysis of deep sequencing data for rapid and intuitive interpretation of genome editing experiments
 - **[BortonWrightonLabs/DRAM](https://github.com/BortonWrightonLabs/DRAM)** – ⭐ 344 – Distilled and Refined Annotation of Metabolism: A tool for the annotation and curation of function for microbial and viral genomes
@@ -67,7 +67,8 @@
 - **[bluenote-1577/skani](https://github.com/bluenote-1577/skani)** – ⭐ 271 – Fast average nucleotide identity (ANI) calculator for bacterial genomes, MAGs, and contigs. Supports genome comparisons and large-scale database searches.
 - **[ANHIG/IMGTHLA](https://github.com/ANHIG/IMGTHLA)** – ⭐ 268 – Github for files currently published in the IPD-IMGT/HLA FTP Directory hosted at the European Bioinformatics Institute
 - **[nextstrain/nextclade](https://github.com/nextstrain/nextclade)** – ⭐ 266 – Viral genome alignment, mutation calling, clade assignment, quality checks and phylogenetic placement
-- **[huggingface/carbon](https://github.com/huggingface/carbon)** – ⭐ 255 – The home of Carbon Genomic Foundation Model 🧬
+- **[huggingface/carbon](https://github.com/huggingface/carbon)** – ⭐ 256 – The home of Carbon Genomic Foundation Model 🧬
 - **[Garinmckayl/anima](https://github.com/Garinmckayl/anima)** – ⭐ 255 – Anima: a Claude Code skill that turns a biology idea into an interactive, sourced, isometric figure. Dopamine receptors, stimulants, addiction circuits, semaglutide.
+- **[gladstone-institutes/Bioinformatics-Workshops](https://github.com/gladstone-institutes/Bioinformatics-Workshops)** – ⭐ 254 – Workshops presented by the Gladstone Bioinformatics Core
 - **[PecanProject/pecan](https://github.com/PecanProject/pecan)** – ⭐ 253 – The Predictive Ecosystem Analyzer (PEcAn) is an integrated ecological bioinformatics toolbox.
 - **[dariober/ASCIIGenome](https://github.com/dariober/ASCIIGenome)** – ⭐ 252 – Text Only Genome Viewer!
